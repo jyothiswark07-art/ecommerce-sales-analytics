@@ -1,0 +1,801 @@
+Order_ID,Order_Date,Customer_ID,Region,Customer_Segment,Product,Category,Quantity,Unit_Price,Discount,Revenue,Cost,Profit,Payment_Method,Order_Status
+ORD-000001,2026-08-22,CUS-0116,South,Consumer,Water Bottle,Sports & Outdoors,1,18.0,0.1,16.2,7.2,9.0,PayPal,Delivered
+ORD-000002,2026-06-23,CUS-0055,West,Consumer,Building Set,Toys & Games,1,59.0,0.05,56.05,33.04,23.01,Credit Card,Delivered
+ORD-000003,2026-09-06,CUS-0161,West,Consumer,Board Game,Toys & Games,2,34.99,0.0,69.98,32.9,37.08,Bank Transfer,Returned
+ORD-000004,2026-09-17,CUS-0118,West,Small Business,Desk Lamp,Home & Kitchen,1,32.0,0.0,32.0,15.36,16.64,Credit Card,Returned
+ORD-000005,2026-04-15,CUS-0239,East,Consumer,Cotton T-Shirt,Clothing,1,22.5,0.0,22.5,9.45,13.05,Debit Card,Delivered
+ORD-000006,2026-06-19,CUS-0177,North,Consumer,Wireless Headphones,Electronics,1,79.99,0.0,79.99,46.39,33.6,Debit Card,Delivered
+ORD-000007,2026-08-12,CUS-0144,South,Corporate,Water Bottle,Sports & Outdoors,1,18.0,0.0,18.0,7.2,10.8,Credit Card,Delivered
+ORD-000008,2026-02-05,CUS-0171,West,Consumer,Camping Lantern,Sports & Outdoors,2,39.95,0.15,67.92,40.74,27.18,PayPal,Delivered
+ORD-000009,2026-06-03,CUS-0006,North,Corporate,Wireless Headphones,Electronics,3,79.99,0.15,203.97,139.17,64.8,Credit Card,Delivered
+ORD-000010,2026-09-17,CUS-0243,East,Corporate,Board Game,Toys & Games,2,34.99,0.0,69.98,32.9,37.08,Credit Card,Delivered
+ORD-000011,2026-03-22,CUS-0222,North,Consumer,Running Shoes,Clothing,1,74.0,0.0,74.0,38.48,35.52,Credit Card,Processing
+ORD-000012,2026-02-13,CUS-0284,West,Consumer,Camping Lantern,Sports & Outdoors,1,39.95,0.05,37.95,20.37,17.58,Credit Card,Delivered
+ORD-000013,2026-08-15,CUS-0227,South,Consumer,Water Bottle,Sports & Outdoors,5,18.0,0.05,85.5,36.0,49.5,Debit Card,Delivered
+ORD-000014,2026-04-12,CUS-0199,North,Small Business,Yoga Mat,Sports & Outdoors,1,29.99,0.0,29.99,13.8,16.19,PayPal,Delivered
+ORD-000015,2026-01-03,CUS-0234,Central,Consumer,Board Game,Toys & Games,2,34.99,0.05,66.48,32.9,33.58,Cash on Delivery,Returned
+ORD-000016,2026-07-30,CUS-0018,Central,Small Business,Wireless Headphones,Electronics,1,79.99,0.0,79.99,46.39,33.6,Debit Card,Processing
+ORD-000017,2026-05-31,CUS-0181,West,Consumer,Running Shoes,Clothing,1,74.0,0.0,74.0,38.48,35.52,Debit Card,Delivered
+ORD-000018,2026-09-21,CUS-0017,South,Consumer,Wireless Headphones,Electronics,2,79.99,0.0,159.98,92.78,67.2,Credit Card,Delivered
+ORD-000019,2026-09-18,CUS-0235,East,Consumer,Building Set,Toys & Games,1,59.0,0.1,53.1,33.04,20.06,Credit Card,Delivered
+ORD-000020,2026-05-19,CUS-0134,West,Consumer,Puzzle Set,Toys & Games,4,16.99,0.0,67.96,25.84,42.12,Credit Card,Delivered
+ORD-000021,2026-08-13,CUS-0118,South,Consumer,Yoga Mat,Sports & Outdoors,3,29.99,0.0,89.97,41.4,48.57,Bank Transfer,Delivered
+ORD-000022,2026-04-07,CUS-0132,East,Corporate,Building Set,Toys & Games,5,59.0,0.15,250.75,165.2,85.55,Credit Card,Processing
+ORD-000023,2026-02-12,CUS-0165,Central,Consumer,Smart Watch,Electronics,2,129.0,0.0,258.0,159.96,98.04,Bank Transfer,Processing
+ORD-000024,2026-01-14,CUS-0211,West,Small Business,Water Bottle,Sports & Outdoors,1,18.0,0.1,16.2,7.2,9.0,PayPal,Delivered
+ORD-000025,2026-09-12,CUS-0159,West,Consumer,Running Shoes,Clothing,1,74.0,0.0,74.0,38.48,35.52,Debit Card,Delivered
+ORD-000026,2026-01-23,CUS-0169,North,Corporate,Smart Watch,Electronics,1,129.0,0.0,129.0,79.98,49.02,Bank Transfer,Delivered
+ORD-000027,2026-06-13,CUS-0210,North,Consumer,Wireless Headphones,Electronics,2,79.99,0.0,159.98,92.78,67.2,Debit Card,Cancelled
+ORD-000028,2026-06-02,CUS-0177,North,Small Business,Coffee Maker,Home & Kitchen,1,89.95,0.0,89.95,51.27,38.68,PayPal,Processing
+ORD-000029,2026-02-17,CUS-0279,Central,Consumer,Desk Lamp,Home & Kitchen,1,32.0,0.0,32.0,15.36,16.64,Debit Card,Delivered
+ORD-000030,2026-06-16,CUS-0197,North,Corporate,Bluetooth Speaker,Electronics,3,54.5,0.0,163.5,89.94,73.56,Credit Card,Delivered
+ORD-000031,2026-05-30,CUS-0178,Central,Small Business,Running Shoes,Clothing,2,74.0,0.05,140.6,76.96,63.64,Bank Transfer,Delivered
+ORD-000032,2026-09-02,CUS-0258,East,Consumer,Camping Lantern,Sports & Outdoors,3,39.95,0.1,107.86,61.11,46.75,Bank Transfer,Processing
+ORD-000033,2026-07-01,CUS-0002,East,Corporate,Water Bottle,Sports & Outdoors,1,18.0,0.1,16.2,7.2,9.0,Bank Transfer,Delivered
+ORD-000034,2026-09-07,CUS-0218,Central,Consumer,Camping Lantern,Sports & Outdoors,4,39.95,0.2,127.84,81.48,46.36,Cash on Delivery,Delivered
+ORD-000035,2026-05-30,CUS-0164,East,Consumer,Water Bottle,Sports & Outdoors,1,18.0,0.0,18.0,7.2,10.8,PayPal,Delivered
+ORD-000036,2026-04-17,CUS-0129,North,Consumer,Smart Watch,Electronics,2,129.0,0.1,232.2,159.96,72.24,Credit Card,Delivered
+ORD-000037,2026-08-08,CUS-0232,East,Consumer,Smart Watch,Electronics,1,129.0,0.05,122.55,79.98,42.57,Credit Card,Delivered
+ORD-000038,2026-07-04,CUS-0037,South,Corporate,Wireless Headphones,Electronics,4,79.99,0.0,319.96,185.56,134.4,Credit Card,Delivered
+ORD-000039,2026-09-13,CUS-0053,Central,Corporate,Building Set,Toys & Games,2,59.0,0.0,118.0,66.08,51.92,Debit Card,Delivered
+ORD-000040,2026-05-05,CUS-0152,South,Consumer,Board Game,Toys & Games,2,34.99,0.1,62.98,32.9,30.08,Credit Card,Delivered
+ORD-000041,2026-09-21,CUS-0020,East,Corporate,Backpack,Clothing,1,45.0,0.15,38.25,22.5,15.75,Debit Card,Delivered
+ORD-000042,2026-03-11,CUS-0164,North,Consumer,Smart Watch,Electronics,2,129.0,0.0,258.0,159.96,98.04,Debit Card,Delivered
+ORD-000043,2026-07-05,CUS-0117,Central,Consumer,Puzzle Set,Toys & Games,5,16.99,0.0,84.95,32.3,52.65,Credit Card,Delivered
+ORD-000044,2026-02-05,CUS-0235,Central,Consumer,Bluetooth Speaker,Electronics,1,54.5,0.1,49.05,29.98,19.07,Cash on Delivery,Delivered
+ORD-000045,2026-03-01,CUS-0154,Central,Small Business,Backpack,Clothing,2,45.0,0.0,90.0,45.0,45.0,Credit Card,Processing
+ORD-000046,2026-03-19,CUS-0270,West,Consumer,Bluetooth Speaker,Electronics,1,54.5,0.15,46.32,29.98,16.34,Debit Card,Delivered
+ORD-000047,2026-05-18,CUS-0069,South,Small Business,Cotton T-Shirt,Clothing,1,22.5,0.2,18.0,9.45,8.55,Debit Card,Processing
+ORD-000048,2026-03-03,CUS-0079,South,Consumer,Smart Watch,Electronics,1,129.0,0.0,129.0,79.98,49.02,Cash on Delivery,Cancelled
+ORD-000049,2026-08-26,CUS-0254,East,Consumer,Cotton T-Shirt,Clothing,4,22.5,0.05,85.5,37.8,47.7,PayPal,Delivered
+ORD-000050,2026-07-11,CUS-0245,West,Consumer,Running Shoes,Clothing,1,74.0,0.0,74.0,38.48,35.52,Debit Card,Delivered
+ORD-000051,2026-07-22,CUS-0082,North,Consumer,Smart Watch,Electronics,3,129.0,0.0,387.0,239.94,147.06,Bank Transfer,Delivered
+ORD-000052,2026-05-15,CUS-0198,East,Consumer,Board Game,Toys & Games,3,34.99,0.15,89.22,49.35,39.87,Cash on Delivery,Delivered
+ORD-000053,2026-08-24,CUS-0283,West,Consumer,Wireless Headphones,Electronics,2,79.99,0.2,127.98,92.78,35.2,Credit Card,Delivered
+ORD-000054,2026-02-15,CUS-0174,South,Consumer,Backpack,Clothing,2,45.0,0.05,85.5,45.0,40.5,Credit Card,Processing
+ORD-000055,2026-08-27,CUS-0003,North,Consumer,Wireless Headphones,Electronics,1,79.99,0.0,79.99,46.39,33.6,Cash on Delivery,Delivered
+ORD-000056,2026-08-15,CUS-0202,South,Consumer,Board Game,Toys & Games,2,34.99,0.1,62.98,32.9,30.08,Debit Card,Delivered
+ORD-000057,2026-04-17,CUS-0081,South,Consumer,Desk Lamp,Home & Kitchen,3,32.0,0.05,91.2,46.08,45.12,Debit Card,Delivered
+ORD-000058,2026-06-11,CUS-0196,West,Consumer,Coffee Maker,Home & Kitchen,1,89.95,0.1,80.96,51.27,29.69,Debit Card,Cancelled
+ORD-000059,2026-07-22,CUS-0211,East,Consumer,Yoga Mat,Sports & Outdoors,1,29.99,0.1,26.99,13.8,13.19,PayPal,Processing
+ORD-000060,2026-04-29,CUS-0178,West,Consumer,Wireless Headphones,Electronics,1,79.99,0.15,67.99,46.39,21.6,Debit Card,Delivered
+ORD-000061,2026-01-01,CUS-0013,West,Consumer,Cotton T-Shirt,Clothing,1,22.5,0.0,22.5,9.45,13.05,Credit Card,Delivered
+ORD-000062,2026-02-13,CUS-0215,West,Consumer,Water Bottle,Sports & Outdoors,1,18.0,0.0,18.0,7.2,10.8,Credit Card,Processing
+ORD-000063,2026-05-29,CUS-0049,South,Consumer,Coffee Maker,Home & Kitchen,1,89.95,0.0,89.95,51.27,38.68,PayPal,Delivered
+ORD-000064,2026-06-19,CUS-0164,West,Consumer,Wireless Headphones,Electronics,1,79.99,0.0,79.99,46.39,33.6,PayPal,Delivered
+ORD-000065,2026-08-26,CUS-0201,South,Consumer,Water Bottle,Sports & Outdoors,4,18.0,0.05,68.4,28.8,39.6,Credit Card,Delivered
+ORD-000066,2026-08-19,CUS-0026,East,Consumer,Backpack,Clothing,1,45.0,0.2,36.0,22.5,13.5,Credit Card,Processing
+ORD-000067,2026-07-31,CUS-0248,West,Consumer,Board Game,Toys & Games,2,34.99,0.2,55.98,32.9,23.08,Debit Card,Delivered
+ORD-000068,2026-03-17,CUS-0224,West,Consumer,Cotton T-Shirt,Clothing,4,22.5,0.05,85.5,37.8,47.7,Credit Card,Delivered
+ORD-000069,2026-04-08,CUS-0123,North,Corporate,Puzzle Set,Toys & Games,1,16.99,0.0,16.99,6.46,10.53,Debit Card,Delivered
+ORD-000070,2026-04-20,CUS-0169,North,Corporate,Yoga Mat,Sports & Outdoors,3,29.99,0.05,85.47,41.4,44.07,Debit Card,Processing
+ORD-000071,2026-08-10,CUS-0132,South,Corporate,Camping Lantern,Sports & Outdoors,5,39.95,0.0,199.75,101.85,97.9,PayPal,Delivered
+ORD-000072,2026-06-13,CUS-0056,East,Consumer,Yoga Mat,Sports & Outdoors,1,29.99,0.0,29.99,13.8,16.19,PayPal,Delivered
+ORD-000073,2026-03-08,CUS-0008,Central,Consumer,Running Shoes,Clothing,1,74.0,0.0,74.0,38.48,35.52,Debit Card,Delivered
+ORD-000074,2026-02-07,CUS-0214,West,Consumer,Yoga Mat,Sports & Outdoors,2,29.99,0.0,59.98,27.6,32.38,Credit Card,Delivered
+ORD-000075,2026-01-24,CUS-0110,East,Small Business,Water Bottle,Sports & Outdoors,1,18.0,0.0,18.0,7.2,10.8,Cash on Delivery,Delivered
+ORD-000076,2026-07-11,CUS-0280,West,Consumer,Board Game,Toys & Games,1,34.99,0.05,33.24,16.45,16.79,Credit Card,Delivered
+ORD-000077,2026-05-31,CUS-0211,Central,Small Business,Smart Watch,Electronics,1,129.0,0.05,122.55,79.98,42.57,Credit Card,Delivered
+ORD-000078,2026-01-28,CUS-0133,West,Corporate,Backpack,Clothing,2,45.0,0.2,72.0,45.0,27.0,Cash on Delivery,Processing
+ORD-000079,2026-08-24,CUS-0175,West,Consumer,Wireless Headphones,Electronics,1,79.99,0.0,79.99,46.39,33.6,Debit Card,Delivered
+ORD-000080,2026-07-17,CUS-0118,North,Consumer,Camping Lantern,Sports & Outdoors,2,39.95,0.0,79.9,40.74,39.16,Cash on Delivery,Delivered
+ORD-000081,2026-05-01,CUS-0153,North,Consumer,Backpack,Clothing,2,45.0,0.0,90.0,45.0,45.0,Credit Card,Delivered
+ORD-000082,2026-07-07,CUS-0213,South,Corporate,Bluetooth Speaker,Electronics,5,54.5,0.1,245.25,149.9,95.35,Debit Card,Delivered
+ORD-000083,2026-05-14,CUS-0091,South,Small Business,Bluetooth Speaker,Electronics,1,54.5,0.1,49.05,29.98,19.07,Bank Transfer,Delivered
+ORD-000084,2026-07-08,CUS-0139,Central,Corporate,Wireless Headphones,Electronics,3,79.99,0.2,191.98,139.17,52.81,PayPal,Delivered
+ORD-000085,2026-01-23,CUS-0291,North,Consumer,Running Shoes,Clothing,3,74.0,0.15,188.7,115.44,73.26,Credit Card,Delivered
+ORD-000086,2026-09-04,CUS-0035,West,Corporate,Building Set,Toys & Games,1,59.0,0.1,53.1,33.04,20.06,Credit Card,Processing
+ORD-000087,2026-07-22,CUS-0205,West,Consumer,Wireless Headphones,Electronics,4,79.99,0.1,287.96,185.56,102.4,Bank Transfer,Delivered
+ORD-000088,2026-03-21,CUS-0242,Central,Corporate,Desk Lamp,Home & Kitchen,1,32.0,0.0,32.0,15.36,16.64,Credit Card,Delivered
+ORD-000089,2026-08-31,CUS-0270,East,Consumer,Wireless Headphones,Electronics,2,79.99,0.0,159.98,92.78,67.2,Debit Card,Delivered
+ORD-000090,2026-07-11,CUS-0092,West,Corporate,Yoga Mat,Sports & Outdoors,4,29.99,0.0,119.96,55.2,64.76,Debit Card,Delivered
+ORD-000091,2026-08-10,CUS-0104,South,Corporate,Bluetooth Speaker,Electronics,2,54.5,0.0,109.0,59.96,49.04,Debit Card,Delivered
+ORD-000092,2026-09-29,CUS-0229,South,Corporate,Wireless Headphones,Electronics,1,79.99,0.05,75.99,46.39,29.6,Debit Card,Processing
+ORD-000093,2026-08-17,CUS-0123,East,Consumer,Puzzle Set,Toys & Games,2,16.99,0.1,30.58,12.92,17.66,Credit Card,Delivered
+ORD-000094,2026-07-09,CUS-0106,West,Small Business,Desk Lamp,Home & Kitchen,1,32.0,0.1,28.8,15.36,13.44,Cash on Delivery,Delivered
+ORD-000095,2026-09-10,CUS-0190,East,Small Business,Board Game,Toys & Games,2,34.99,0.05,66.48,32.9,33.58,Credit Card,Delivered
+ORD-000096,2026-07-17,CUS-0225,South,Corporate,Water Bottle,Sports & Outdoors,1,18.0,0.1,16.2,7.2,9.0,PayPal,Returned
+ORD-000097,2026-02-27,CUS-0261,West,Consumer,Running Shoes,Clothing,3,74.0,0.1,199.8,115.44,84.36,Credit Card,Delivered
+ORD-000098,2026-08-23,CUS-0272,Central,Consumer,Camping Lantern,Sports & Outdoors,1,39.95,0.0,39.95,20.37,19.58,PayPal,Delivered
+ORD-000099,2026-04-14,CUS-0198,West,Consumer,Yoga Mat,Sports & Outdoors,3,29.99,0.0,89.97,41.4,48.57,Credit Card,Returned
+ORD-000100,2026-08-25,CUS-0059,West,Consumer,Board Game,Toys & Games,4,34.99,0.0,139.96,65.8,74.16,Credit Card,Processing
+ORD-000101,2026-02-15,CUS-0265,West,Consumer,Water Bottle,Sports & Outdoors,1,18.0,0.05,17.1,7.2,9.9,Credit Card,Delivered
+ORD-000102,2026-09-21,CUS-0234,Central,Small Business,Backpack,Clothing,5,45.0,0.0,225.0,112.5,112.5,Credit Card,Delivered
+ORD-000103,2026-05-30,CUS-0099,North,Consumer,Yoga Mat,Sports & Outdoors,2,29.99,0.1,53.98,27.6,26.38,Bank Transfer,Delivered
+ORD-000104,2026-02-11,CUS-0088,Central,Consumer,Camping Lantern,Sports & Outdoors,1,39.95,0.1,35.96,20.37,15.59,Bank Transfer,Delivered
+ORD-000105,2026-08-13,CUS-0003,North,Consumer,Board Game,Toys & Games,1,34.99,0.1,31.49,16.45,15.04,Credit Card,Delivered
+ORD-000106,2026-06-07,CUS-0100,North,Consumer,Backpack,Clothing,5,45.0,0.0,225.0,112.5,112.5,PayPal,Delivered
+ORD-000107,2026-07-19,CUS-0084,West,Consumer,Cotton T-Shirt,Clothing,1,22.5,0.0,22.5,9.45,13.05,Credit Card,Delivered
+ORD-000108,2026-06-22,CUS-0105,North,Consumer,Puzzle Set,Toys & Games,1,16.99,0.0,16.99,6.46,10.53,Debit Card,Delivered
+ORD-000109,2026-09-17,CUS-0230,West,Consumer,Board Game,Toys & Games,4,34.99,0.05,132.96,65.8,67.16,PayPal,Cancelled
+ORD-000110,2026-05-01,CUS-0300,West,Corporate,Cotton T-Shirt,Clothing,2,22.5,0.1,40.5,18.9,21.6,Debit Card,Delivered
+ORD-000111,2026-05-17,CUS-0282,South,Consumer,Puzzle Set,Toys & Games,3,16.99,0.0,50.97,19.38,31.59,Debit Card,Delivered
+ORD-000112,2026-07-25,CUS-0004,West,Corporate,Board Game,Toys & Games,5,34.99,0.0,174.95,82.25,92.7,Credit Card,Delivered
+ORD-000113,2026-08-07,CUS-0108,East,Consumer,Backpack,Clothing,1,45.0,0.0,45.0,22.5,22.5,Debit Card,Delivered
+ORD-000114,2026-02-06,CUS-0157,Central,Consumer,Cotton T-Shirt,Clothing,1,22.5,0.0,22.5,9.45,13.05,Debit Card,Delivered
+ORD-000115,2026-08-25,CUS-0053,Central,Consumer,Cotton T-Shirt,Clothing,1,22.5,0.0,22.5,9.45,13.05,Debit Card,Delivered
+ORD-000116,2026-04-20,CUS-0180,South,Consumer,Board Game,Toys & Games,1,34.99,0.05,33.24,16.45,16.79,Credit Card,Delivered
+ORD-000117,2026-07-30,CUS-0076,Central,Corporate,Wireless Headphones,Electronics,1,79.99,0.1,71.99,46.39,25.6,Credit Card,Cancelled
+ORD-000118,2026-06-29,CUS-0150,West,Consumer,Wireless Headphones,Electronics,1,79.99,0.05,75.99,46.39,29.6,Debit Card,Delivered
+ORD-000119,2026-05-02,CUS-0245,West,Consumer,Cotton T-Shirt,Clothing,1,22.5,0.05,21.38,9.45,11.93,Cash on Delivery,Delivered
+ORD-000120,2026-09-01,CUS-0270,North,Consumer,Cotton T-Shirt,Clothing,3,22.5,0.15,57.38,28.35,29.03,Cash on Delivery,Delivered
+ORD-000121,2026-09-11,CUS-0107,North,Consumer,Water Bottle,Sports & Outdoors,3,18.0,0.0,54.0,21.6,32.4,Credit Card,Delivered
+ORD-000122,2026-07-13,CUS-0122,West,Consumer,Coffee Maker,Home & Kitchen,1,89.95,0.0,89.95,51.27,38.68,Bank Transfer,Returned
+ORD-000123,2026-02-22,CUS-0254,North,Corporate,Water Bottle,Sports & Outdoors,1,18.0,0.05,17.1,7.2,9.9,Credit Card,Delivered
+ORD-000124,2026-08-23,CUS-0112,West,Consumer,Building Set,Toys & Games,1,59.0,0.0,59.0,33.04,25.96,Cash on Delivery,Returned
+ORD-000125,2026-01-26,CUS-0209,Central,Consumer,Running Shoes,Clothing,1,74.0,0.0,74.0,38.48,35.52,PayPal,Delivered
+ORD-000126,2026-05-29,CUS-0149,Central,Small Business,Camping Lantern,Sports & Outdoors,3,39.95,0.0,119.85,61.11,58.74,Debit Card,Cancelled
+ORD-000127,2026-07-24,CUS-0058,Central,Consumer,Blender,Home & Kitchen,2,64.99,0.0,129.98,70.18,59.8,Credit Card,Delivered
+ORD-000128,2026-09-14,CUS-0274,Central,Corporate,Camping Lantern,Sports & Outdoors,4,39.95,0.1,143.82,81.48,62.34,Debit Card,Delivered
+ORD-000129,2026-07-06,CUS-0072,North,Consumer,Camping Lantern,Sports & Outdoors,2,39.95,0.0,79.9,40.74,39.16,Credit Card,Processing
+ORD-000130,2026-07-19,CUS-0128,East,Corporate,Wireless Headphones,Electronics,2,79.99,0.05,151.98,92.78,59.2,Credit Card,Processing
+ORD-000131,2026-07-22,CUS-0251,East,Small Business,Camping Lantern,Sports & Outdoors,2,39.95,0.0,79.9,40.74,39.16,Credit Card,Delivered
+ORD-000132,2026-02-20,CUS-0049,North,Consumer,Puzzle Set,Toys & Games,1,16.99,0.1,15.29,6.46,8.83,Credit Card,Delivered
+ORD-000133,2026-05-21,CUS-0079,South,Corporate,Yoga Mat,Sports & Outdoors,1,29.99,0.1,26.99,13.8,13.19,Debit Card,Delivered
+ORD-000134,2026-09-30,CUS-0127,South,Consumer,Camping Lantern,Sports & Outdoors,4,39.95,0.05,151.81,81.48,70.33,Cash on Delivery,Delivered
+ORD-000135,2026-08-19,CUS-0278,North,Consumer,Running Shoes,Clothing,1,74.0,0.15,62.9,38.48,24.42,Cash on Delivery,Delivered
+ORD-000136,2026-06-24,CUS-0157,North,Consumer,Cotton T-Shirt,Clothing,1,22.5,0.0,22.5,9.45,13.05,Credit Card,Delivered
+ORD-000137,2026-08-08,CUS-0151,North,Consumer,Yoga Mat,Sports & Outdoors,2,29.99,0.05,56.98,27.6,29.38,Debit Card,Delivered
+ORD-000138,2026-08-09,CUS-0144,North,Corporate,Water Bottle,Sports & Outdoors,1,18.0,0.0,18.0,7.2,10.8,Debit Card,Delivered
+ORD-000139,2026-07-30,CUS-0267,East,Corporate,Puzzle Set,Toys & Games,1,16.99,0.0,16.99,6.46,10.53,Credit Card,Processing
+ORD-000140,2026-03-17,CUS-0237,North,Consumer,Bluetooth Speaker,Electronics,2,54.5,0.1,98.1,59.96,38.14,PayPal,Delivered
+ORD-000141,2026-05-16,CUS-0245,North,Consumer,Bluetooth Speaker,Electronics,1,54.5,0.0,54.5,29.98,24.52,Credit Card,Delivered
+ORD-000142,2026-01-31,CUS-0120,North,Consumer,Coffee Maker,Home & Kitchen,4,89.95,0.0,359.8,205.08,154.72,PayPal,Delivered
+ORD-000143,2026-02-08,CUS-0168,South,Small Business,Wireless Headphones,Electronics,3,79.99,0.0,239.97,139.17,100.8,Cash on Delivery,Delivered
+ORD-000144,2026-05-24,CUS-0242,North,Small Business,Yoga Mat,Sports & Outdoors,3,29.99,0.1,80.97,41.4,39.57,Debit Card,Processing
+ORD-000145,2026-09-15,CUS-0061,South,Consumer,Yoga Mat,Sports & Outdoors,2,29.99,0.0,59.98,27.6,32.38,Bank Transfer,Delivered
+ORD-000146,2026-02-22,CUS-0113,West,Small Business,Desk Lamp,Home & Kitchen,3,32.0,0.0,96.0,46.08,49.92,PayPal,Delivered
+ORD-000147,2026-06-13,CUS-0184,West,Corporate,Puzzle Set,Toys & Games,3,16.99,0.1,45.87,19.38,26.49,Credit Card,Returned
+ORD-000148,2026-02-15,CUS-0167,West,Consumer,Bluetooth Speaker,Electronics,1,54.5,0.15,46.32,29.98,16.34,Credit Card,Cancelled
+ORD-000149,2026-09-15,CUS-0300,East,Small Business,Cotton T-Shirt,Clothing,3,22.5,0.0,67.5,28.35,39.15,Bank Transfer,Processing
+ORD-000150,2026-04-26,CUS-0027,North,Small Business,Bluetooth Speaker,Electronics,1,54.5,0.0,54.5,29.98,24.52,PayPal,Delivered
+ORD-000151,2026-09-10,CUS-0203,West,Consumer,Running Shoes,Clothing,1,74.0,0.0,74.0,38.48,35.52,Credit Card,Delivered
+ORD-000152,2026-04-30,CUS-0123,East,Consumer,Board Game,Toys & Games,2,34.99,0.1,62.98,32.9,30.08,Credit Card,Delivered
+ORD-000153,2026-01-07,CUS-0115,North,Corporate,Desk Lamp,Home & Kitchen,1,32.0,0.05,30.4,15.36,15.04,Debit Card,Processing
+ORD-000154,2026-07-17,CUS-0023,North,Consumer,Backpack,Clothing,1,45.0,0.05,42.75,22.5,20.25,PayPal,Delivered
+ORD-000155,2026-03-01,CUS-0095,North,Consumer,Desk Lamp,Home & Kitchen,1,32.0,0.1,28.8,15.36,13.44,PayPal,Delivered
+ORD-000156,2026-04-15,CUS-0244,Central,Consumer,Camping Lantern,Sports & Outdoors,1,39.95,0.0,39.95,20.37,19.58,Credit Card,Delivered
+ORD-000157,2026-08-17,CUS-0045,East,Consumer,Blender,Home & Kitchen,2,64.99,0.1,116.98,70.18,46.8,Cash on Delivery,Delivered
+ORD-000158,2026-06-22,CUS-0124,Central,Consumer,Building Set,Toys & Games,1,59.0,0.15,50.15,33.04,17.11,Credit Card,Delivered
+ORD-000159,2026-07-05,CUS-0098,North,Consumer,Yoga Mat,Sports & Outdoors,4,29.99,0.0,119.96,55.2,64.76,Debit Card,Delivered
+ORD-000160,2026-01-25,CUS-0079,North,Consumer,Coffee Maker,Home & Kitchen,1,89.95,0.05,85.45,51.27,34.18,Debit Card,Delivered
+ORD-000161,2026-09-21,CUS-0048,South,Consumer,Puzzle Set,Toys & Games,1,16.99,0.05,16.14,6.46,9.68,Debit Card,Processing
+ORD-000162,2026-05-13,CUS-0179,South,Consumer,Puzzle Set,Toys & Games,2,16.99,0.2,27.18,12.92,14.26,Bank Transfer,Cancelled
+ORD-000163,2026-01-21,CUS-0009,North,Consumer,Coffee Maker,Home & Kitchen,1,89.95,0.1,80.96,51.27,29.69,Credit Card,Delivered
+ORD-000164,2026-01-07,CUS-0168,South,Consumer,Cotton T-Shirt,Clothing,1,22.5,0.1,20.25,9.45,10.8,PayPal,Delivered
+ORD-000165,2026-07-28,CUS-0194,West,Consumer,Board Game,Toys & Games,2,34.99,0.0,69.98,32.9,37.08,Credit Card,Delivered
+ORD-000166,2026-08-10,CUS-0049,West,Corporate,Camping Lantern,Sports & Outdoors,2,39.95,0.0,79.9,40.74,39.16,Credit Card,Delivered
+ORD-000167,2026-04-08,CUS-0213,East,Consumer,Yoga Mat,Sports & Outdoors,1,29.99,0.0,29.99,13.8,16.19,Credit Card,Processing
+ORD-000168,2026-01-13,CUS-0153,East,Consumer,Bluetooth Speaker,Electronics,1,54.5,0.1,49.05,29.98,19.07,Debit Card,Delivered
+ORD-000169,2026-02-07,CUS-0290,North,Consumer,Blender,Home & Kitchen,1,64.99,0.05,61.74,35.09,26.65,Debit Card,Delivered
+ORD-000170,2026-09-29,CUS-0219,Central,Consumer,Running Shoes,Clothing,1,74.0,0.0,74.0,38.48,35.52,Credit Card,Delivered
+ORD-000171,2026-09-22,CUS-0294,Central,Corporate,Puzzle Set,Toys & Games,5,16.99,0.1,76.46,32.3,44.16,Credit Card,Delivered
+ORD-000172,2026-09-02,CUS-0281,Central,Small Business,Puzzle Set,Toys & Games,1,16.99,0.0,16.99,6.46,10.53,Debit Card,Returned
+ORD-000173,2026-07-07,CUS-0047,East,Consumer,Camping Lantern,Sports & Outdoors,1,39.95,0.0,39.95,20.37,19.58,Credit Card,Processing
+ORD-000174,2026-02-19,CUS-0156,North,Consumer,Camping Lantern,Sports & Outdoors,1,39.95,0.0,39.95,20.37,19.58,Credit Card,Delivered
+ORD-000175,2026-08-24,CUS-0210,Central,Consumer,Coffee Maker,Home & Kitchen,2,89.95,0.0,179.9,102.54,77.36,Credit Card,Processing
+ORD-000176,2026-09-09,CUS-0273,Central,Consumer,Board Game,Toys & Games,1,34.99,0.0,34.99,16.45,18.54,PayPal,Delivered
+ORD-000177,2026-03-19,CUS-0231,East,Corporate,Blender,Home & Kitchen,2,64.99,0.15,110.48,70.18,40.3,Credit Card,Delivered
+ORD-000178,2026-07-09,CUS-0165,East,Corporate,Puzzle Set,Toys & Games,1,16.99,0.0,16.99,6.46,10.53,Credit Card,Delivered
+ORD-000179,2026-07-13,CUS-0090,South,Consumer,Yoga Mat,Sports & Outdoors,1,29.99,0.05,28.49,13.8,14.69,Debit Card,Delivered
+ORD-000180,2026-05-24,CUS-0280,East,Consumer,Desk Lamp,Home & Kitchen,1,32.0,0.2,25.6,15.36,10.24,Debit Card,Delivered
+ORD-000181,2026-02-21,CUS-0038,North,Corporate,Board Game,Toys & Games,3,34.99,0.0,104.97,49.35,55.62,PayPal,Delivered
+ORD-000182,2026-08-27,CUS-0153,North,Consumer,Water Bottle,Sports & Outdoors,3,18.0,0.1,48.6,21.6,27.0,Credit Card,Delivered
+ORD-000183,2026-07-07,CUS-0298,North,Consumer,Running Shoes,Clothing,2,74.0,0.0,148.0,76.96,71.04,Credit Card,Delivered
+ORD-000184,2026-08-31,CUS-0223,West,Corporate,Water Bottle,Sports & Outdoors,3,18.0,0.0,54.0,21.6,32.4,Cash on Delivery,Delivered
+ORD-000185,2026-06-22,CUS-0053,North,Consumer,Wireless Headphones,Electronics,1,79.99,0.0,79.99,46.39,33.6,Cash on Delivery,Cancelled
+ORD-000186,2026-02-26,CUS-0253,South,Consumer,Backpack,Clothing,2,45.0,0.0,90.0,45.0,45.0,Debit Card,Delivered
+ORD-000187,2026-02-05,CUS-0072,South,Consumer,Coffee Maker,Home & Kitchen,3,89.95,0.0,269.85,153.81,116.04,Credit Card,Processing
+ORD-000188,2026-09-16,CUS-0091,East,Consumer,Board Game,Toys & Games,1,34.99,0.1,31.49,16.45,15.04,PayPal,Delivered
+ORD-000189,2026-01-29,CUS-0256,Central,Corporate,Board Game,Toys & Games,1,34.99,0.05,33.24,16.45,16.79,Credit Card,Delivered
+ORD-000190,2026-05-05,CUS-0153,North,Consumer,Running Shoes,Clothing,3,74.0,0.0,222.0,115.44,106.56,Credit Card,Delivered
+ORD-000191,2026-01-27,CUS-0051,East,Small Business,Water Bottle,Sports & Outdoors,2,18.0,0.05,34.2,14.4,19.8,Credit Card,Delivered
+ORD-000192,2026-09-05,CUS-0195,West,Consumer,Puzzle Set,Toys & Games,1,16.99,0.0,16.99,6.46,10.53,Debit Card,Delivered
+ORD-000193,2026-08-06,CUS-0234,East,Small Business,Bluetooth Speaker,Electronics,2,54.5,0.0,109.0,59.96,49.04,Debit Card,Processing
+ORD-000194,2026-07-03,CUS-0044,East,Consumer,Smart Watch,Electronics,2,129.0,0.1,232.2,159.96,72.24,PayPal,Delivered
+ORD-000195,2026-04-17,CUS-0296,South,Consumer,Puzzle Set,Toys & Games,1,16.99,0.0,16.99,6.46,10.53,PayPal,Delivered
+ORD-000196,2026-08-28,CUS-0238,South,Consumer,Building Set,Toys & Games,1,59.0,0.1,53.1,33.04,20.06,Credit Card,Delivered
+ORD-000197,2026-08-05,CUS-0177,East,Small Business,Backpack,Clothing,5,45.0,0.05,213.75,112.5,101.25,Credit Card,Cancelled
+ORD-000198,2026-08-14,CUS-0123,Central,Consumer,Blender,Home & Kitchen,1,64.99,0.05,61.74,35.09,26.65,PayPal,Delivered
+ORD-000199,2026-07-08,CUS-0284,South,Consumer,Puzzle Set,Toys & Games,1,16.99,0.1,15.29,6.46,8.83,Bank Transfer,Delivered
+ORD-000200,2026-08-26,CUS-0275,East,Consumer,Camping Lantern,Sports & Outdoors,1,39.95,0.1,35.96,20.37,15.59,Credit Card,Delivered
+ORD-000201,2026-06-18,CUS-0106,North,Consumer,Camping Lantern,Sports & Outdoors,2,39.95,0.0,79.9,40.74,39.16,Debit Card,Delivered
+ORD-000202,2026-04-05,CUS-0045,East,Consumer,Coffee Maker,Home & Kitchen,2,89.95,0.05,170.9,102.54,68.36,Credit Card,Processing
+ORD-000203,2026-02-03,CUS-0005,West,Corporate,Blender,Home & Kitchen,1,64.99,0.0,64.99,35.09,29.9,Credit Card,Delivered
+ORD-000204,2026-02-25,CUS-0119,North,Consumer,Puzzle Set,Toys & Games,2,16.99,0.1,30.58,12.92,17.66,Debit Card,Delivered
+ORD-000205,2026-08-01,CUS-0259,South,Consumer,Desk Lamp,Home & Kitchen,1,32.0,0.0,32.0,15.36,16.64,Credit Card,Delivered
+ORD-000206,2026-04-20,CUS-0053,West,Corporate,Camping Lantern,Sports & Outdoors,4,39.95,0.1,143.82,81.48,62.34,Credit Card,Cancelled
+ORD-000207,2026-03-01,CUS-0039,North,Consumer,Puzzle Set,Toys & Games,4,16.99,0.1,61.16,25.84,35.32,Credit Card,Processing
+ORD-000208,2026-05-30,CUS-0193,North,Small Business,Camping Lantern,Sports & Outdoors,1,39.95,0.0,39.95,20.37,19.58,Debit Card,Delivered
+ORD-000209,2026-08-04,CUS-0115,Central,Consumer,Smart Watch,Electronics,4,129.0,0.15,438.6,319.92,118.68,Credit Card,Delivered
+ORD-000210,2026-05-29,CUS-0044,South,Consumer,Yoga Mat,Sports & Outdoors,1,29.99,0.2,23.99,13.8,10.19,PayPal,Cancelled
+ORD-000211,2026-08-21,CUS-0079,Central,Corporate,Smart Watch,Electronics,1,129.0,0.2,103.2,79.98,23.22,PayPal,Delivered
+ORD-000212,2026-04-15,CUS-0007,Central,Consumer,Blender,Home & Kitchen,3,64.99,0.0,194.97,105.27,89.7,Debit Card,Delivered
+ORD-000213,2026-05-24,CUS-0110,East,Consumer,Coffee Maker,Home & Kitchen,5,89.95,0.15,382.29,256.35,125.94,PayPal,Delivered
+ORD-000214,2026-05-11,CUS-0021,South,Consumer,Wireless Headphones,Electronics,2,79.99,0.15,135.98,92.78,43.2,Bank Transfer,Delivered
+ORD-000215,2026-09-15,CUS-0040,East,Consumer,Wireless Headphones,Electronics,2,79.99,0.0,159.98,92.78,67.2,Debit Card,Delivered
+ORD-000216,2026-04-25,CUS-0135,West,Small Business,Building Set,Toys & Games,5,59.0,0.0,295.0,165.2,129.8,Bank Transfer,Delivered
+ORD-000217,2026-08-24,CUS-0054,South,Consumer,Board Game,Toys & Games,2,34.99,0.05,66.48,32.9,33.58,Credit Card,Cancelled
+ORD-000218,2026-08-07,CUS-0225,North,Consumer,Puzzle Set,Toys & Games,1,16.99,0.05,16.14,6.46,9.68,Credit Card,Delivered
+ORD-000219,2026-02-02,CUS-0068,South,Consumer,Blender,Home & Kitchen,2,64.99,0.0,129.98,70.18,59.8,Credit Card,Processing
+ORD-000220,2026-06-21,CUS-0197,West,Consumer,Smart Watch,Electronics,2,129.0,0.1,232.2,159.96,72.24,Credit Card,Delivered
+ORD-000221,2026-09-14,CUS-0189,South,Consumer,Smart Watch,Electronics,2,129.0,0.1,232.2,159.96,72.24,Bank Transfer,Delivered
+ORD-000222,2026-07-21,CUS-0053,North,Small Business,Wireless Headphones,Electronics,3,79.99,0.05,227.97,139.17,88.8,Bank Transfer,Delivered
+ORD-000223,2026-08-11,CUS-0191,East,Corporate,Building Set,Toys & Games,1,59.0,0.0,59.0,33.04,25.96,Credit Card,Cancelled
+ORD-000224,2026-08-10,CUS-0228,North,Consumer,Blender,Home & Kitchen,1,64.99,0.0,64.99,35.09,29.9,Debit Card,Delivered
+ORD-000225,2026-04-10,CUS-0052,West,Corporate,Coffee Maker,Home & Kitchen,3,89.95,0.15,229.37,153.81,75.56,Credit Card,Cancelled
+ORD-000226,2026-02-19,CUS-0023,South,Consumer,Cotton T-Shirt,Clothing,4,22.5,0.15,76.5,37.8,38.7,Bank Transfer,Cancelled
+ORD-000227,2026-08-01,CUS-0239,East,Consumer,Wireless Headphones,Electronics,1,79.99,0.05,75.99,46.39,29.6,Bank Transfer,Delivered
+ORD-000228,2026-06-28,CUS-0216,East,Corporate,Puzzle Set,Toys & Games,1,16.99,0.0,16.99,6.46,10.53,Credit Card,Returned
+ORD-000229,2026-07-25,CUS-0165,West,Corporate,Puzzle Set,Toys & Games,2,16.99,0.0,33.98,12.92,21.06,Credit Card,Delivered
+ORD-000230,2026-08-17,CUS-0223,North,Consumer,Backpack,Clothing,3,45.0,0.0,135.0,67.5,67.5,Credit Card,Delivered
+ORD-000231,2026-05-17,CUS-0108,West,Small Business,Cotton T-Shirt,Clothing,4,22.5,0.0,90.0,37.8,52.2,Bank Transfer,Delivered
+ORD-000232,2026-07-14,CUS-0112,Central,Consumer,Board Game,Toys & Games,3,34.99,0.15,89.22,49.35,39.87,Debit Card,Delivered
+ORD-000233,2026-07-22,CUS-0277,Central,Consumer,Bluetooth Speaker,Electronics,2,54.5,0.0,109.0,59.96,49.04,PayPal,Delivered
+ORD-000234,2026-06-15,CUS-0092,West,Consumer,Building Set,Toys & Games,1,59.0,0.1,53.1,33.04,20.06,Credit Card,Delivered
+ORD-000235,2026-04-04,CUS-0015,North,Consumer,Board Game,Toys & Games,1,34.99,0.0,34.99,16.45,18.54,Debit Card,Delivered
+ORD-000236,2026-05-03,CUS-0279,North,Consumer,Board Game,Toys & Games,1,34.99,0.0,34.99,16.45,18.54,Credit Card,Delivered
+ORD-000237,2026-06-26,CUS-0038,North,Consumer,Water Bottle,Sports & Outdoors,3,18.0,0.0,54.0,21.6,32.4,Cash on Delivery,Delivered
+ORD-000238,2026-09-13,CUS-0121,East,Consumer,Running Shoes,Clothing,2,74.0,0.0,148.0,76.96,71.04,Credit Card,Delivered
+ORD-000239,2026-09-13,CUS-0292,Central,Consumer,Wireless Headphones,Electronics,1,79.99,0.0,79.99,46.39,33.6,Credit Card,Delivered
+ORD-000240,2026-02-26,CUS-0158,Central,Consumer,Bluetooth Speaker,Electronics,1,54.5,0.0,54.5,29.98,24.52,Cash on Delivery,Delivered
+ORD-000241,2026-04-30,CUS-0090,South,Corporate,Camping Lantern,Sports & Outdoors,1,39.95,0.0,39.95,20.37,19.58,Debit Card,Delivered
+ORD-000242,2026-05-18,CUS-0127,East,Corporate,Puzzle Set,Toys & Games,1,16.99,0.1,15.29,6.46,8.83,Credit Card,Delivered
+ORD-000243,2026-09-30,CUS-0061,North,Corporate,Wireless Headphones,Electronics,4,79.99,0.05,303.96,185.56,118.4,PayPal,Processing
+ORD-000244,2026-04-04,CUS-0298,East,Consumer,Desk Lamp,Home & Kitchen,1,32.0,0.0,32.0,15.36,16.64,Credit Card,Delivered
+ORD-000245,2026-09-11,CUS-0270,East,Corporate,Camping Lantern,Sports & Outdoors,1,39.95,0.2,31.96,20.37,11.59,Debit Card,Delivered
+ORD-000246,2026-07-18,CUS-0198,Central,Consumer,Running Shoes,Clothing,3,74.0,0.0,222.0,115.44,106.56,Bank Transfer,Delivered
+ORD-000247,2026-08-21,CUS-0077,Central,Small Business,Board Game,Toys & Games,1,34.99,0.1,31.49,16.45,15.04,Bank Transfer,Returned
+ORD-000248,2026-05-17,CUS-0017,West,Corporate,Water Bottle,Sports & Outdoors,1,18.0,0.0,18.0,7.2,10.8,Credit Card,Delivered
+ORD-000249,2026-02-24,CUS-0186,East,Corporate,Puzzle Set,Toys & Games,1,16.99,0.0,16.99,6.46,10.53,Debit Card,Delivered
+ORD-000250,2026-05-10,CUS-0152,Central,Consumer,Camping Lantern,Sports & Outdoors,2,39.95,0.1,71.91,40.74,31.17,Credit Card,Delivered
+ORD-000251,2026-07-23,CUS-0150,North,Consumer,Board Game,Toys & Games,1,34.99,0.0,34.99,16.45,18.54,Credit Card,Delivered
+ORD-000252,2026-05-28,CUS-0117,South,Consumer,Wireless Headphones,Electronics,2,79.99,0.0,159.98,92.78,67.2,Credit Card,Delivered
+ORD-000253,2026-03-17,CUS-0068,North,Corporate,Running Shoes,Clothing,1,74.0,0.2,59.2,38.48,20.72,Credit Card,Cancelled
+ORD-000254,2026-01-01,CUS-0255,North,Consumer,Smart Watch,Electronics,4,129.0,0.0,516.0,319.92,196.08,Credit Card,Delivered
+ORD-000255,2026-03-30,CUS-0251,West,Consumer,Backpack,Clothing,1,45.0,0.1,40.5,22.5,18.0,Credit Card,Processing
+ORD-000256,2026-07-10,CUS-0018,West,Consumer,Desk Lamp,Home & Kitchen,4,32.0,0.0,128.0,61.44,66.56,Debit Card,Returned
+ORD-000257,2026-06-25,CUS-0270,Central,Small Business,Smart Watch,Electronics,4,129.0,0.05,490.2,319.92,170.28,Credit Card,Delivered
+ORD-000258,2026-08-25,CUS-0064,West,Consumer,Building Set,Toys & Games,2,59.0,0.1,106.2,66.08,40.12,Bank Transfer,Delivered
+ORD-000259,2026-06-24,CUS-0054,West,Small Business,Backpack,Clothing,1,45.0,0.1,40.5,22.5,18.0,Credit Card,Processing
+ORD-000260,2026-02-14,CUS-0197,West,Consumer,Camping Lantern,Sports & Outdoors,1,39.95,0.1,35.96,20.37,15.59,PayPal,Delivered
+ORD-000261,2026-07-29,CUS-0065,West,Small Business,Camping Lantern,Sports & Outdoors,5,39.95,0.0,199.75,101.85,97.9,Credit Card,Delivered
+ORD-000262,2026-02-07,CUS-0157,South,Consumer,Blender,Home & Kitchen,1,64.99,0.1,58.49,35.09,23.4,PayPal,Delivered
+ORD-000263,2026-06-25,CUS-0071,South,Corporate,Coffee Maker,Home & Kitchen,4,89.95,0.05,341.81,205.08,136.73,Credit Card,Processing
+ORD-000264,2026-05-05,CUS-0036,North,Consumer,Building Set,Toys & Games,2,59.0,0.0,118.0,66.08,51.92,PayPal,Delivered
+ORD-000265,2026-03-08,CUS-0198,South,Consumer,Board Game,Toys & Games,1,34.99,0.0,34.99,16.45,18.54,PayPal,Delivered
+ORD-000266,2026-05-03,CUS-0036,South,Consumer,Coffee Maker,Home & Kitchen,2,89.95,0.05,170.9,102.54,68.36,Credit Card,Delivered
+ORD-000267,2026-04-09,CUS-0166,West,Consumer,Yoga Mat,Sports & Outdoors,3,29.99,0.0,89.97,41.4,48.57,Credit Card,Delivered
+ORD-000268,2026-04-22,CUS-0004,West,Consumer,Coffee Maker,Home & Kitchen,1,89.95,0.0,89.95,51.27,38.68,Credit Card,Delivered
+ORD-000269,2026-01-13,CUS-0049,South,Consumer,Smart Watch,Electronics,3,129.0,0.1,348.3,239.94,108.36,Credit Card,Returned
+ORD-000270,2026-07-18,CUS-0155,East,Consumer,Board Game,Toys & Games,1,34.99,0.1,31.49,16.45,15.04,PayPal,Processing
+ORD-000271,2026-04-13,CUS-0269,North,Consumer,Desk Lamp,Home & Kitchen,1,32.0,0.05,30.4,15.36,15.04,Credit Card,Delivered
+ORD-000272,2026-06-17,CUS-0229,East,Consumer,Smart Watch,Electronics,1,129.0,0.05,122.55,79.98,42.57,Bank Transfer,Returned
+ORD-000273,2026-09-24,CUS-0152,North,Small Business,Desk Lamp,Home & Kitchen,1,32.0,0.0,32.0,15.36,16.64,PayPal,Delivered
+ORD-000274,2026-08-12,CUS-0119,North,Consumer,Smart Watch,Electronics,3,129.0,0.0,387.0,239.94,147.06,Credit Card,Delivered
+ORD-000275,2026-09-23,CUS-0122,Central,Consumer,Smart Watch,Electronics,1,129.0,0.0,129.0,79.98,49.02,Credit Card,Delivered
+ORD-000276,2026-01-04,CUS-0212,West,Corporate,Puzzle Set,Toys & Games,2,16.99,0.05,32.28,12.92,19.36,Bank Transfer,Delivered
+ORD-000277,2026-04-24,CUS-0128,East,Corporate,Running Shoes,Clothing,1,74.0,0.2,59.2,38.48,20.72,Credit Card,Delivered
+ORD-000278,2026-05-09,CUS-0117,South,Consumer,Cotton T-Shirt,Clothing,1,22.5,0.1,20.25,9.45,10.8,Bank Transfer,Delivered
+ORD-000279,2026-08-20,CUS-0277,West,Corporate,Camping Lantern,Sports & Outdoors,1,39.95,0.1,35.96,20.37,15.59,Debit Card,Delivered
+ORD-000280,2026-06-11,CUS-0050,West,Consumer,Wireless Headphones,Electronics,2,79.99,0.2,127.98,92.78,35.2,Credit Card,Delivered
+ORD-000281,2026-04-18,CUS-0248,South,Corporate,Cotton T-Shirt,Clothing,1,22.5,0.1,20.25,9.45,10.8,Credit Card,Cancelled
+ORD-000282,2026-09-21,CUS-0089,North,Consumer,Running Shoes,Clothing,5,74.0,0.0,370.0,192.4,177.6,Credit Card,Delivered
+ORD-000283,2026-01-03,CUS-0278,North,Consumer,Running Shoes,Clothing,3,74.0,0.05,210.9,115.44,95.46,PayPal,Delivered
+ORD-000284,2026-04-14,CUS-0142,North,Consumer,Backpack,Clothing,3,45.0,0.05,128.25,67.5,60.75,Debit Card,Delivered
+ORD-000285,2026-01-10,CUS-0064,Central,Consumer,Bluetooth Speaker,Electronics,2,54.5,0.0,109.0,59.96,49.04,PayPal,Delivered
+ORD-000286,2026-02-17,CUS-0117,Central,Consumer,Camping Lantern,Sports & Outdoors,1,39.95,0.05,37.95,20.37,17.58,Cash on Delivery,Cancelled
+ORD-000287,2026-06-02,CUS-0064,East,Corporate,Board Game,Toys & Games,3,34.99,0.1,94.47,49.35,45.12,Credit Card,Delivered
+ORD-000288,2026-06-28,CUS-0030,East,Corporate,Water Bottle,Sports & Outdoors,3,18.0,0.1,48.6,21.6,27.0,Credit Card,Delivered
+ORD-000289,2026-02-11,CUS-0112,East,Consumer,Board Game,Toys & Games,1,34.99,0.0,34.99,16.45,18.54,Debit Card,Processing
+ORD-000290,2026-08-16,CUS-0178,North,Consumer,Building Set,Toys & Games,1,59.0,0.0,59.0,33.04,25.96,Credit Card,Delivered
+ORD-000291,2026-07-11,CUS-0279,East,Consumer,Desk Lamp,Home & Kitchen,3,32.0,0.0,96.0,46.08,49.92,Credit Card,Delivered
+ORD-000292,2026-09-29,CUS-0155,Central,Corporate,Smart Watch,Electronics,2,129.0,0.1,232.2,159.96,72.24,Bank Transfer,Delivered
+ORD-000293,2026-08-05,CUS-0213,North,Corporate,Coffee Maker,Home & Kitchen,2,89.95,0.0,179.9,102.54,77.36,Credit Card,Delivered
+ORD-000294,2026-04-07,CUS-0097,South,Small Business,Puzzle Set,Toys & Games,3,16.99,0.05,48.42,19.38,29.04,Debit Card,Delivered
+ORD-000295,2026-07-18,CUS-0015,Central,Consumer,Yoga Mat,Sports & Outdoors,1,29.99,0.1,26.99,13.8,13.19,PayPal,Delivered
+ORD-000296,2026-09-02,CUS-0080,West,Consumer,Water Bottle,Sports & Outdoors,3,18.0,0.1,48.6,21.6,27.0,Credit Card,Cancelled
+ORD-000297,2026-02-14,CUS-0101,South,Consumer,Camping Lantern,Sports & Outdoors,1,39.95,0.0,39.95,20.37,19.58,PayPal,Delivered
+ORD-000298,2026-09-17,CUS-0161,West,Consumer,Camping Lantern,Sports & Outdoors,1,39.95,0.0,39.95,20.37,19.58,Debit Card,Delivered
+ORD-000299,2026-01-15,CUS-0001,South,Consumer,Board Game,Toys & Games,2,34.99,0.05,66.48,32.9,33.58,Bank Transfer,Delivered
+ORD-000300,2026-05-05,CUS-0132,West,Consumer,Running Shoes,Clothing,1,74.0,0.0,74.0,38.48,35.52,PayPal,Delivered
+ORD-000301,2026-08-12,CUS-0268,North,Consumer,Puzzle Set,Toys & Games,5,16.99,0.0,84.95,32.3,52.65,Cash on Delivery,Delivered
+ORD-000302,2026-05-07,CUS-0082,East,Consumer,Water Bottle,Sports & Outdoors,2,18.0,0.15,30.6,14.4,16.2,Debit Card,Returned
+ORD-000303,2026-05-09,CUS-0267,North,Consumer,Water Bottle,Sports & Outdoors,4,18.0,0.0,72.0,28.8,43.2,PayPal,Delivered
+ORD-000304,2026-06-28,CUS-0111,West,Consumer,Camping Lantern,Sports & Outdoors,1,39.95,0.0,39.95,20.37,19.58,Debit Card,Cancelled
+ORD-000305,2026-09-20,CUS-0292,West,Consumer,Water Bottle,Sports & Outdoors,2,18.0,0.05,34.2,14.4,19.8,PayPal,Delivered
+ORD-000306,2026-07-29,CUS-0165,East,Corporate,Board Game,Toys & Games,1,34.99,0.0,34.99,16.45,18.54,Debit Card,Delivered
+ORD-000307,2026-09-18,CUS-0297,West,Consumer,Board Game,Toys & Games,4,34.99,0.1,125.96,65.8,60.16,Debit Card,Processing
+ORD-000308,2026-09-26,CUS-0179,East,Small Business,Wireless Headphones,Electronics,1,79.99,0.05,75.99,46.39,29.6,PayPal,Returned
+ORD-000309,2026-06-17,CUS-0165,West,Consumer,Yoga Mat,Sports & Outdoors,2,29.99,0.0,59.98,27.6,32.38,Debit Card,Delivered
+ORD-000310,2026-09-05,CUS-0208,South,Corporate,Bluetooth Speaker,Electronics,2,54.5,0.05,103.55,59.96,43.59,Credit Card,Cancelled
+ORD-000311,2026-09-02,CUS-0015,West,Consumer,Yoga Mat,Sports & Outdoors,1,29.99,0.05,28.49,13.8,14.69,Debit Card,Processing
+ORD-000312,2026-04-17,CUS-0132,Central,Consumer,Coffee Maker,Home & Kitchen,3,89.95,0.1,242.87,153.81,89.06,Credit Card,Delivered
+ORD-000313,2026-07-08,CUS-0228,Central,Corporate,Desk Lamp,Home & Kitchen,1,32.0,0.0,32.0,15.36,16.64,Credit Card,Delivered
+ORD-000314,2026-02-16,CUS-0253,Central,Small Business,Camping Lantern,Sports & Outdoors,1,39.95,0.05,37.95,20.37,17.58,Debit Card,Returned
+ORD-000315,2026-08-05,CUS-0239,Central,Consumer,Yoga Mat,Sports & Outdoors,4,29.99,0.0,119.96,55.2,64.76,Credit Card,Delivered
+ORD-000316,2026-04-21,CUS-0040,East,Consumer,Desk Lamp,Home & Kitchen,2,32.0,0.0,64.0,30.72,33.28,Credit Card,Delivered
+ORD-000317,2026-02-06,CUS-0128,East,Consumer,Bluetooth Speaker,Electronics,1,54.5,0.1,49.05,29.98,19.07,Debit Card,Delivered
+ORD-000318,2026-04-30,CUS-0060,West,Small Business,Puzzle Set,Toys & Games,1,16.99,0.2,13.59,6.46,7.13,Debit Card,Delivered
+ORD-000319,2026-04-01,CUS-0104,North,Corporate,Bluetooth Speaker,Electronics,1,54.5,0.1,49.05,29.98,19.07,Credit Card,Delivered
+ORD-000320,2026-01-02,CUS-0296,East,Corporate,Cotton T-Shirt,Clothing,1,22.5,0.05,21.38,9.45,11.93,Credit Card,Processing
+ORD-000321,2026-03-18,CUS-0003,West,Consumer,Puzzle Set,Toys & Games,1,16.99,0.05,16.14,6.46,9.68,Credit Card,Delivered
+ORD-000322,2026-09-27,CUS-0160,South,Corporate,Wireless Headphones,Electronics,1,79.99,0.0,79.99,46.39,33.6,Bank Transfer,Delivered
+ORD-000323,2026-05-15,CUS-0226,North,Consumer,Wireless Headphones,Electronics,2,79.99,0.05,151.98,92.78,59.2,Debit Card,Delivered
+ORD-000324,2026-09-18,CUS-0090,North,Small Business,Water Bottle,Sports & Outdoors,1,18.0,0.0,18.0,7.2,10.8,Cash on Delivery,Processing
+ORD-000325,2026-05-23,CUS-0225,Central,Consumer,Water Bottle,Sports & Outdoors,3,18.0,0.0,54.0,21.6,32.4,Cash on Delivery,Delivered
+ORD-000326,2026-05-24,CUS-0249,Central,Consumer,Water Bottle,Sports & Outdoors,3,18.0,0.2,43.2,21.6,21.6,PayPal,Processing
+ORD-000327,2026-08-18,CUS-0023,East,Consumer,Desk Lamp,Home & Kitchen,3,32.0,0.0,96.0,46.08,49.92,Debit Card,Delivered
+ORD-000328,2026-01-03,CUS-0129,Central,Consumer,Building Set,Toys & Games,1,59.0,0.05,56.05,33.04,23.01,Credit Card,Delivered
+ORD-000329,2026-07-26,CUS-0285,South,Consumer,Bluetooth Speaker,Electronics,1,54.5,0.0,54.5,29.98,24.52,Debit Card,Delivered
+ORD-000330,2026-05-17,CUS-0065,Central,Consumer,Desk Lamp,Home & Kitchen,1,32.0,0.0,32.0,15.36,16.64,Credit Card,Delivered
+ORD-000331,2026-08-24,CUS-0130,South,Corporate,Coffee Maker,Home & Kitchen,2,89.95,0.05,170.9,102.54,68.36,Credit Card,Delivered
+ORD-000332,2026-08-30,CUS-0231,Central,Consumer,Blender,Home & Kitchen,3,64.99,0.05,185.22,105.27,79.95,Bank Transfer,Delivered
+ORD-000333,2026-09-12,CUS-0253,North,Consumer,Blender,Home & Kitchen,3,64.99,0.15,165.72,105.27,60.45,Credit Card,Delivered
+ORD-000334,2026-03-30,CUS-0007,North,Corporate,Wireless Headphones,Electronics,4,79.99,0.05,303.96,185.56,118.4,Cash on Delivery,Delivered
+ORD-000335,2026-01-27,CUS-0250,South,Consumer,Blender,Home & Kitchen,3,64.99,0.0,194.97,105.27,89.7,Cash on Delivery,Processing
+ORD-000336,2026-03-15,CUS-0175,East,Consumer,Puzzle Set,Toys & Games,1,16.99,0.15,14.44,6.46,7.98,PayPal,Delivered
+ORD-000337,2026-09-24,CUS-0050,East,Corporate,Puzzle Set,Toys & Games,1,16.99,0.1,15.29,6.46,8.83,Credit Card,Cancelled
+ORD-000338,2026-05-15,CUS-0079,North,Consumer,Desk Lamp,Home & Kitchen,1,32.0,0.05,30.4,15.36,15.04,Debit Card,Delivered
+ORD-000339,2026-07-22,CUS-0053,West,Consumer,Yoga Mat,Sports & Outdoors,1,29.99,0.0,29.99,13.8,16.19,Credit Card,Cancelled
+ORD-000340,2026-07-19,CUS-0211,West,Corporate,Puzzle Set,Toys & Games,2,16.99,0.15,28.88,12.92,15.96,PayPal,Delivered
+ORD-000341,2026-03-01,CUS-0223,North,Consumer,Smart Watch,Electronics,1,129.0,0.05,122.55,79.98,42.57,Cash on Delivery,Delivered
+ORD-000342,2026-02-27,CUS-0034,South,Consumer,Blender,Home & Kitchen,4,64.99,0.1,233.96,140.36,93.6,Debit Card,Delivered
+ORD-000343,2026-06-23,CUS-0134,South,Corporate,Water Bottle,Sports & Outdoors,1,18.0,0.1,16.2,7.2,9.0,Debit Card,Delivered
+ORD-000344,2026-09-12,CUS-0043,West,Consumer,Camping Lantern,Sports & Outdoors,1,39.95,0.1,35.96,20.37,15.59,Bank Transfer,Delivered
+ORD-000345,2026-09-14,CUS-0169,East,Small Business,Puzzle Set,Toys & Games,2,16.99,0.05,32.28,12.92,19.36,Debit Card,Delivered
+ORD-000346,2026-01-26,CUS-0219,Central,Consumer,Smart Watch,Electronics,2,129.0,0.05,245.1,159.96,85.14,Debit Card,Cancelled
+ORD-000347,2026-08-21,CUS-0289,Central,Consumer,Yoga Mat,Sports & Outdoors,3,29.99,0.0,89.97,41.4,48.57,Bank Transfer,Delivered
+ORD-000348,2026-08-07,CUS-0129,South,Consumer,Running Shoes,Clothing,1,74.0,0.0,74.0,38.48,35.52,Bank Transfer,Cancelled
+ORD-000349,2026-04-02,CUS-0077,North,Consumer,Bluetooth Speaker,Electronics,1,54.5,0.05,51.78,29.98,21.8,Credit Card,Delivered
+ORD-000350,2026-07-29,CUS-0160,North,Consumer,Building Set,Toys & Games,1,59.0,0.15,50.15,33.04,17.11,PayPal,Cancelled
+ORD-000351,2026-05-23,CUS-0045,North,Corporate,Board Game,Toys & Games,1,34.99,0.05,33.24,16.45,16.79,Bank Transfer,Delivered
+ORD-000352,2026-02-17,CUS-0288,Central,Corporate,Water Bottle,Sports & Outdoors,2,18.0,0.0,36.0,14.4,21.6,PayPal,Delivered
+ORD-000353,2026-03-03,CUS-0032,South,Corporate,Smart Watch,Electronics,1,129.0,0.0,129.0,79.98,49.02,Credit Card,Delivered
+ORD-000354,2026-03-29,CUS-0226,Central,Consumer,Blender,Home & Kitchen,2,64.99,0.1,116.98,70.18,46.8,Credit Card,Delivered
+ORD-000355,2026-06-14,CUS-0149,West,Consumer,Puzzle Set,Toys & Games,1,16.99,0.05,16.14,6.46,9.68,Credit Card,Delivered
+ORD-000356,2026-07-07,CUS-0098,East,Consumer,Bluetooth Speaker,Electronics,2,54.5,0.1,98.1,59.96,38.14,Credit Card,Delivered
+ORD-000357,2026-07-06,CUS-0260,West,Consumer,Wireless Headphones,Electronics,2,79.99,0.0,159.98,92.78,67.2,Credit Card,Delivered
+ORD-000358,2026-03-01,CUS-0116,North,Consumer,Board Game,Toys & Games,1,34.99,0.1,31.49,16.45,15.04,Debit Card,Delivered
+ORD-000359,2026-02-19,CUS-0203,East,Consumer,Running Shoes,Clothing,2,74.0,0.05,140.6,76.96,63.64,PayPal,Returned
+ORD-000360,2026-07-10,CUS-0120,Central,Consumer,Bluetooth Speaker,Electronics,2,54.5,0.0,109.0,59.96,49.04,Debit Card,Delivered
+ORD-000361,2026-02-26,CUS-0161,East,Corporate,Coffee Maker,Home & Kitchen,3,89.95,0.0,269.85,153.81,116.04,Credit Card,Delivered
+ORD-000362,2026-02-16,CUS-0138,South,Corporate,Smart Watch,Electronics,1,129.0,0.1,116.1,79.98,36.12,Credit Card,Delivered
+ORD-000363,2026-06-20,CUS-0076,West,Small Business,Cotton T-Shirt,Clothing,1,22.5,0.05,21.38,9.45,11.93,Credit Card,Delivered
+ORD-000364,2026-01-28,CUS-0007,West,Consumer,Board Game,Toys & Games,1,34.99,0.0,34.99,16.45,18.54,Cash on Delivery,Delivered
+ORD-000365,2026-06-27,CUS-0086,West,Corporate,Blender,Home & Kitchen,3,64.99,0.05,185.22,105.27,79.95,Credit Card,Delivered
+ORD-000366,2026-01-12,CUS-0134,North,Corporate,Board Game,Toys & Games,2,34.99,0.1,62.98,32.9,30.08,Credit Card,Delivered
+ORD-000367,2026-04-14,CUS-0293,South,Consumer,Board Game,Toys & Games,1,34.99,0.1,31.49,16.45,15.04,PayPal,Delivered
+ORD-000368,2026-09-13,CUS-0226,East,Consumer,Bluetooth Speaker,Electronics,2,54.5,0.0,109.0,59.96,49.04,PayPal,Cancelled
+ORD-000369,2026-09-20,CUS-0281,West,Small Business,Wireless Headphones,Electronics,1,79.99,0.05,75.99,46.39,29.6,Credit Card,Delivered
+ORD-000370,2026-05-13,CUS-0213,Central,Consumer,Bluetooth Speaker,Electronics,5,54.5,0.15,231.62,149.9,81.72,Credit Card,Processing
+ORD-000371,2026-06-27,CUS-0250,Central,Consumer,Blender,Home & Kitchen,1,64.99,0.0,64.99,35.09,29.9,Debit Card,Delivered
+ORD-000372,2026-07-14,CUS-0167,West,Consumer,Cotton T-Shirt,Clothing,2,22.5,0.05,42.75,18.9,23.85,Credit Card,Delivered
+ORD-000373,2026-05-03,CUS-0100,Central,Small Business,Smart Watch,Electronics,2,129.0,0.0,258.0,159.96,98.04,Cash on Delivery,Cancelled
+ORD-000374,2026-07-09,CUS-0236,East,Small Business,Bluetooth Speaker,Electronics,1,54.5,0.0,54.5,29.98,24.52,PayPal,Delivered
+ORD-000375,2026-05-26,CUS-0156,North,Consumer,Wireless Headphones,Electronics,3,79.99,0.05,227.97,139.17,88.8,Credit Card,Delivered
+ORD-000376,2026-06-23,CUS-0019,West,Small Business,Building Set,Toys & Games,2,59.0,0.05,112.1,66.08,46.02,Debit Card,Delivered
+ORD-000377,2026-03-06,CUS-0143,South,Consumer,Desk Lamp,Home & Kitchen,2,32.0,0.0,64.0,30.72,33.28,Bank Transfer,Delivered
+ORD-000378,2026-08-14,CUS-0046,North,Corporate,Building Set,Toys & Games,1,59.0,0.0,59.0,33.04,25.96,Debit Card,Delivered
+ORD-000379,2026-09-01,CUS-0142,North,Consumer,Board Game,Toys & Games,4,34.99,0.1,125.96,65.8,60.16,Credit Card,Delivered
+ORD-000380,2026-03-14,CUS-0078,West,Small Business,Wireless Headphones,Electronics,3,79.99,0.0,239.97,139.17,100.8,Credit Card,Delivered
+ORD-000381,2026-08-24,CUS-0240,West,Consumer,Yoga Mat,Sports & Outdoors,3,29.99,0.0,89.97,41.4,48.57,Credit Card,Returned
+ORD-000382,2026-07-04,CUS-0201,South,Corporate,Cotton T-Shirt,Clothing,1,22.5,0.15,19.12,9.45,9.67,Debit Card,Delivered
+ORD-000383,2026-09-23,CUS-0144,North,Consumer,Blender,Home & Kitchen,3,64.99,0.0,194.97,105.27,89.7,Credit Card,Delivered
+ORD-000384,2026-08-14,CUS-0008,South,Consumer,Wireless Headphones,Electronics,1,79.99,0.1,71.99,46.39,25.6,Credit Card,Delivered
+ORD-000385,2026-07-24,CUS-0171,South,Consumer,Board Game,Toys & Games,3,34.99,0.0,104.97,49.35,55.62,Debit Card,Delivered
+ORD-000386,2026-07-14,CUS-0178,West,Consumer,Blender,Home & Kitchen,1,64.99,0.05,61.74,35.09,26.65,Bank Transfer,Processing
+ORD-000387,2026-09-07,CUS-0300,North,Corporate,Smart Watch,Electronics,2,129.0,0.0,258.0,159.96,98.04,Debit Card,Processing
+ORD-000388,2026-05-07,CUS-0056,Central,Corporate,Smart Watch,Electronics,2,129.0,0.0,258.0,159.96,98.04,PayPal,Cancelled
+ORD-000389,2026-01-02,CUS-0014,North,Consumer,Backpack,Clothing,1,45.0,0.1,40.5,22.5,18.0,Credit Card,Delivered
+ORD-000390,2026-08-03,CUS-0164,East,Corporate,Blender,Home & Kitchen,1,64.99,0.15,55.24,35.09,20.15,Credit Card,Delivered
+ORD-000391,2026-03-11,CUS-0013,Central,Corporate,Desk Lamp,Home & Kitchen,1,32.0,0.05,30.4,15.36,15.04,Credit Card,Delivered
+ORD-000392,2026-03-20,CUS-0032,North,Consumer,Running Shoes,Clothing,3,74.0,0.0,222.0,115.44,106.56,Bank Transfer,Delivered
+ORD-000393,2026-01-27,CUS-0210,Central,Corporate,Running Shoes,Clothing,2,74.0,0.05,140.6,76.96,63.64,Credit Card,Processing
+ORD-000394,2026-03-22,CUS-0216,North,Small Business,Wireless Headphones,Electronics,2,79.99,0.0,159.98,92.78,67.2,Bank Transfer,Delivered
+ORD-000395,2026-06-18,CUS-0012,West,Consumer,Board Game,Toys & Games,2,34.99,0.0,69.98,32.9,37.08,Credit Card,Delivered
+ORD-000396,2026-09-21,CUS-0017,East,Small Business,Board Game,Toys & Games,2,34.99,0.1,62.98,32.9,30.08,Debit Card,Delivered
+ORD-000397,2026-04-30,CUS-0172,East,Small Business,Building Set,Toys & Games,3,59.0,0.0,177.0,99.12,77.88,Credit Card,Delivered
+ORD-000398,2026-08-29,CUS-0066,Central,Small Business,Board Game,Toys & Games,1,34.99,0.0,34.99,16.45,18.54,Cash on Delivery,Delivered
+ORD-000399,2026-09-08,CUS-0008,North,Consumer,Blender,Home & Kitchen,2,64.99,0.2,103.98,70.18,33.8,PayPal,Processing
+ORD-000400,2026-04-04,CUS-0151,Central,Consumer,Building Set,Toys & Games,2,59.0,0.15,100.3,66.08,34.22,PayPal,Delivered
+ORD-000401,2026-09-11,CUS-0025,East,Consumer,Camping Lantern,Sports & Outdoors,3,39.95,0.1,107.86,61.11,46.75,Credit Card,Delivered
+ORD-000402,2026-04-12,CUS-0222,East,Corporate,Blender,Home & Kitchen,1,64.99,0.15,55.24,35.09,20.15,Bank Transfer,Delivered
+ORD-000403,2026-04-28,CUS-0094,Central,Corporate,Wireless Headphones,Electronics,1,79.99,0.1,71.99,46.39,25.6,Bank Transfer,Delivered
+ORD-000404,2026-07-21,CUS-0150,West,Small Business,Desk Lamp,Home & Kitchen,1,32.0,0.0,32.0,15.36,16.64,Bank Transfer,Delivered
+ORD-000405,2026-07-22,CUS-0163,East,Consumer,Cotton T-Shirt,Clothing,3,22.5,0.0,67.5,28.35,39.15,Debit Card,Delivered
+ORD-000406,2026-08-23,CUS-0137,South,Consumer,Blender,Home & Kitchen,4,64.99,0.05,246.96,140.36,106.6,Debit Card,Delivered
+ORD-000407,2026-08-15,CUS-0251,East,Consumer,Cotton T-Shirt,Clothing,3,22.5,0.1,60.75,28.35,32.4,PayPal,Delivered
+ORD-000408,2026-06-04,CUS-0088,West,Corporate,Yoga Mat,Sports & Outdoors,2,29.99,0.1,53.98,27.6,26.38,Debit Card,Delivered
+ORD-000409,2026-09-25,CUS-0070,North,Consumer,Desk Lamp,Home & Kitchen,1,32.0,0.05,30.4,15.36,15.04,Debit Card,Delivered
+ORD-000410,2026-07-29,CUS-0104,West,Corporate,Coffee Maker,Home & Kitchen,3,89.95,0.05,256.36,153.81,102.55,Bank Transfer,Delivered
+ORD-000411,2026-05-31,CUS-0051,South,Consumer,Camping Lantern,Sports & Outdoors,2,39.95,0.1,71.91,40.74,31.17,PayPal,Delivered
+ORD-000412,2026-08-02,CUS-0138,South,Corporate,Water Bottle,Sports & Outdoors,2,18.0,0.0,36.0,14.4,21.6,Credit Card,Delivered
+ORD-000413,2026-06-01,CUS-0135,South,Consumer,Desk Lamp,Home & Kitchen,1,32.0,0.05,30.4,15.36,15.04,Debit Card,Delivered
+ORD-000414,2026-07-14,CUS-0258,West,Consumer,Bluetooth Speaker,Electronics,1,54.5,0.0,54.5,29.98,24.52,Cash on Delivery,Delivered
+ORD-000415,2026-04-19,CUS-0056,South,Corporate,Running Shoes,Clothing,2,74.0,0.05,140.6,76.96,63.64,PayPal,Returned
+ORD-000416,2026-07-26,CUS-0230,West,Small Business,Backpack,Clothing,1,45.0,0.2,36.0,22.5,13.5,Credit Card,Processing
+ORD-000417,2026-07-11,CUS-0046,South,Consumer,Water Bottle,Sports & Outdoors,2,18.0,0.0,36.0,14.4,21.6,PayPal,Delivered
+ORD-000418,2026-08-02,CUS-0017,West,Small Business,Coffee Maker,Home & Kitchen,1,89.95,0.15,76.46,51.27,25.19,Cash on Delivery,Processing
+ORD-000419,2026-05-28,CUS-0025,East,Consumer,Blender,Home & Kitchen,1,64.99,0.05,61.74,35.09,26.65,Bank Transfer,Delivered
+ORD-000420,2026-05-16,CUS-0119,Central,Consumer,Wireless Headphones,Electronics,1,79.99,0.0,79.99,46.39,33.6,Cash on Delivery,Delivered
+ORD-000421,2026-07-31,CUS-0294,Central,Consumer,Board Game,Toys & Games,4,34.99,0.2,111.97,65.8,46.17,Credit Card,Delivered
+ORD-000422,2026-09-13,CUS-0137,East,Consumer,Cotton T-Shirt,Clothing,4,22.5,0.0,90.0,37.8,52.2,Cash on Delivery,Delivered
+ORD-000423,2026-03-30,CUS-0259,North,Consumer,Yoga Mat,Sports & Outdoors,1,29.99,0.1,26.99,13.8,13.19,Debit Card,Delivered
+ORD-000424,2026-04-26,CUS-0167,Central,Consumer,Yoga Mat,Sports & Outdoors,2,29.99,0.0,59.98,27.6,32.38,Bank Transfer,Delivered
+ORD-000425,2026-07-12,CUS-0176,East,Consumer,Water Bottle,Sports & Outdoors,1,18.0,0.0,18.0,7.2,10.8,Credit Card,Delivered
+ORD-000426,2026-09-09,CUS-0252,East,Consumer,Coffee Maker,Home & Kitchen,2,89.95,0.0,179.9,102.54,77.36,Debit Card,Delivered
+ORD-000427,2026-07-13,CUS-0250,South,Consumer,Bluetooth Speaker,Electronics,4,54.5,0.05,207.1,119.92,87.18,Credit Card,Delivered
+ORD-000428,2026-07-23,CUS-0216,South,Consumer,Board Game,Toys & Games,1,34.99,0.1,31.49,16.45,15.04,PayPal,Delivered
+ORD-000429,2026-06-08,CUS-0082,South,Consumer,Yoga Mat,Sports & Outdoors,2,29.99,0.0,59.98,27.6,32.38,Credit Card,Delivered
+ORD-000430,2026-05-22,CUS-0015,North,Consumer,Backpack,Clothing,2,45.0,0.15,76.5,45.0,31.5,Debit Card,Delivered
+ORD-000431,2026-09-11,CUS-0241,North,Consumer,Wireless Headphones,Electronics,1,79.99,0.1,71.99,46.39,25.6,Credit Card,Delivered
+ORD-000432,2026-07-15,CUS-0079,South,Small Business,Board Game,Toys & Games,1,34.99,0.0,34.99,16.45,18.54,Credit Card,Delivered
+ORD-000433,2026-01-25,CUS-0288,Central,Consumer,Wireless Headphones,Electronics,1,79.99,0.1,71.99,46.39,25.6,PayPal,Processing
+ORD-000434,2026-03-17,CUS-0114,Central,Consumer,Desk Lamp,Home & Kitchen,1,32.0,0.0,32.0,15.36,16.64,Credit Card,Delivered
+ORD-000435,2026-01-11,CUS-0110,West,Consumer,Cotton T-Shirt,Clothing,1,22.5,0.05,21.38,9.45,11.93,Bank Transfer,Processing
+ORD-000436,2026-06-02,CUS-0151,North,Small Business,Wireless Headphones,Electronics,3,79.99,0.15,203.97,139.17,64.8,Bank Transfer,Processing
+ORD-000437,2026-03-24,CUS-0283,East,Consumer,Backpack,Clothing,1,45.0,0.1,40.5,22.5,18.0,Credit Card,Delivered
+ORD-000438,2026-08-20,CUS-0164,North,Consumer,Smart Watch,Electronics,1,129.0,0.15,109.65,79.98,29.67,Bank Transfer,Processing
+ORD-000439,2026-06-09,CUS-0195,North,Consumer,Cotton T-Shirt,Clothing,1,22.5,0.0,22.5,9.45,13.05,Credit Card,Delivered
+ORD-000440,2026-03-25,CUS-0005,South,Consumer,Camping Lantern,Sports & Outdoors,3,39.95,0.05,113.86,61.11,52.75,Credit Card,Processing
+ORD-000441,2026-03-22,CUS-0265,East,Corporate,Desk Lamp,Home & Kitchen,1,32.0,0.15,27.2,15.36,11.84,Credit Card,Delivered
+ORD-000442,2026-07-26,CUS-0230,South,Corporate,Board Game,Toys & Games,1,34.99,0.0,34.99,16.45,18.54,Credit Card,Delivered
+ORD-000443,2026-04-21,CUS-0092,North,Consumer,Yoga Mat,Sports & Outdoors,3,29.99,0.0,89.97,41.4,48.57,Credit Card,Processing
+ORD-000444,2026-07-27,CUS-0179,East,Corporate,Desk Lamp,Home & Kitchen,3,32.0,0.15,81.6,46.08,35.52,Debit Card,Delivered
+ORD-000445,2026-04-27,CUS-0006,North,Consumer,Water Bottle,Sports & Outdoors,2,18.0,0.0,36.0,14.4,21.6,Credit Card,Processing
+ORD-000446,2026-05-30,CUS-0277,North,Consumer,Coffee Maker,Home & Kitchen,2,89.95,0.0,179.9,102.54,77.36,Bank Transfer,Delivered
+ORD-000447,2026-05-21,CUS-0202,West,Consumer,Cotton T-Shirt,Clothing,1,22.5,0.1,20.25,9.45,10.8,Credit Card,Delivered
+ORD-000448,2026-08-12,CUS-0178,West,Corporate,Desk Lamp,Home & Kitchen,1,32.0,0.0,32.0,15.36,16.64,Credit Card,Delivered
+ORD-000449,2026-06-25,CUS-0251,East,Consumer,Camping Lantern,Sports & Outdoors,2,39.95,0.0,79.9,40.74,39.16,Credit Card,Delivered
+ORD-000450,2026-02-04,CUS-0067,South,Consumer,Camping Lantern,Sports & Outdoors,2,39.95,0.05,75.9,40.74,35.16,Bank Transfer,Processing
+ORD-000451,2026-03-24,CUS-0279,East,Consumer,Yoga Mat,Sports & Outdoors,4,29.99,0.0,119.96,55.2,64.76,Credit Card,Delivered
+ORD-000452,2026-05-19,CUS-0017,North,Consumer,Cotton T-Shirt,Clothing,2,22.5,0.0,45.0,18.9,26.1,Cash on Delivery,Processing
+ORD-000453,2026-02-04,CUS-0097,Central,Consumer,Wireless Headphones,Electronics,4,79.99,0.05,303.96,185.56,118.4,PayPal,Delivered
+ORD-000454,2026-08-10,CUS-0276,West,Consumer,Yoga Mat,Sports & Outdoors,1,29.99,0.05,28.49,13.8,14.69,Bank Transfer,Delivered
+ORD-000455,2026-01-25,CUS-0183,North,Corporate,Smart Watch,Electronics,1,129.0,0.0,129.0,79.98,49.02,Debit Card,Delivered
+ORD-000456,2026-07-25,CUS-0027,West,Corporate,Desk Lamp,Home & Kitchen,2,32.0,0.0,64.0,30.72,33.28,Debit Card,Delivered
+ORD-000457,2026-04-28,CUS-0019,Central,Corporate,Bluetooth Speaker,Electronics,1,54.5,0.05,51.78,29.98,21.8,Credit Card,Delivered
+ORD-000458,2026-07-15,CUS-0016,North,Corporate,Yoga Mat,Sports & Outdoors,4,29.99,0.05,113.96,55.2,58.76,Credit Card,Delivered
+ORD-000459,2026-04-13,CUS-0105,North,Consumer,Board Game,Toys & Games,2,34.99,0.0,69.98,32.9,37.08,Debit Card,Processing
+ORD-000460,2026-02-08,CUS-0116,South,Small Business,Board Game,Toys & Games,2,34.99,0.2,55.98,32.9,23.08,Credit Card,Delivered
+ORD-000461,2026-07-24,CUS-0102,Central,Corporate,Running Shoes,Clothing,1,74.0,0.0,74.0,38.48,35.52,Debit Card,Delivered
+ORD-000462,2026-03-19,CUS-0057,South,Consumer,Water Bottle,Sports & Outdoors,3,18.0,0.1,48.6,21.6,27.0,Credit Card,Delivered
+ORD-000463,2026-08-10,CUS-0250,North,Consumer,Running Shoes,Clothing,1,74.0,0.05,70.3,38.48,31.82,Credit Card,Cancelled
+ORD-000464,2026-05-05,CUS-0274,West,Consumer,Wireless Headphones,Electronics,1,79.99,0.05,75.99,46.39,29.6,Cash on Delivery,Cancelled
+ORD-000465,2026-08-27,CUS-0186,East,Small Business,Smart Watch,Electronics,2,129.0,0.0,258.0,159.96,98.04,Debit Card,Delivered
+ORD-000466,2026-09-30,CUS-0159,North,Consumer,Desk Lamp,Home & Kitchen,1,32.0,0.1,28.8,15.36,13.44,PayPal,Delivered
+ORD-000467,2026-05-28,CUS-0210,East,Small Business,Board Game,Toys & Games,2,34.99,0.15,59.48,32.9,26.58,PayPal,Delivered
+ORD-000468,2026-07-06,CUS-0161,West,Corporate,Blender,Home & Kitchen,1,64.99,0.0,64.99,35.09,29.9,Credit Card,Delivered
+ORD-000469,2026-07-20,CUS-0125,West,Small Business,Desk Lamp,Home & Kitchen,1,32.0,0.15,27.2,15.36,11.84,PayPal,Delivered
+ORD-000470,2026-01-29,CUS-0300,West,Corporate,Camping Lantern,Sports & Outdoors,2,39.95,0.05,75.9,40.74,35.16,Credit Card,Processing
+ORD-000471,2026-05-05,CUS-0168,West,Corporate,Puzzle Set,Toys & Games,1,16.99,0.0,16.99,6.46,10.53,Credit Card,Delivered
+ORD-000472,2026-09-12,CUS-0184,East,Consumer,Bluetooth Speaker,Electronics,1,54.5,0.05,51.78,29.98,21.8,Bank Transfer,Delivered
+ORD-000473,2026-02-17,CUS-0075,South,Consumer,Cotton T-Shirt,Clothing,2,22.5,0.15,38.25,18.9,19.35,Credit Card,Delivered
+ORD-000474,2026-09-19,CUS-0120,South,Consumer,Running Shoes,Clothing,1,74.0,0.0,74.0,38.48,35.52,Credit Card,Delivered
+ORD-000475,2026-09-27,CUS-0071,North,Consumer,Cotton T-Shirt,Clothing,3,22.5,0.1,60.75,28.35,32.4,PayPal,Delivered
+ORD-000476,2026-03-04,CUS-0214,Central,Consumer,Building Set,Toys & Games,2,59.0,0.1,106.2,66.08,40.12,Credit Card,Processing
+ORD-000477,2026-08-09,CUS-0150,South,Consumer,Blender,Home & Kitchen,1,64.99,0.0,64.99,35.09,29.9,Credit Card,Delivered
+ORD-000478,2026-05-12,CUS-0003,South,Consumer,Water Bottle,Sports & Outdoors,2,18.0,0.0,36.0,14.4,21.6,Debit Card,Delivered
+ORD-000479,2026-03-13,CUS-0144,East,Consumer,Wireless Headphones,Electronics,2,79.99,0.0,159.98,92.78,67.2,Credit Card,Delivered
+ORD-000480,2026-05-24,CUS-0201,South,Corporate,Board Game,Toys & Games,4,34.99,0.0,139.96,65.8,74.16,Debit Card,Delivered
+ORD-000481,2026-07-31,CUS-0251,North,Consumer,Smart Watch,Electronics,2,129.0,0.15,219.3,159.96,59.34,Debit Card,Delivered
+ORD-000482,2026-04-25,CUS-0267,North,Consumer,Desk Lamp,Home & Kitchen,4,32.0,0.1,115.2,61.44,53.76,Credit Card,Cancelled
+ORD-000483,2026-08-21,CUS-0122,East,Corporate,Coffee Maker,Home & Kitchen,1,89.95,0.0,89.95,51.27,38.68,Credit Card,Delivered
+ORD-000484,2026-03-24,CUS-0208,West,Consumer,Smart Watch,Electronics,1,129.0,0.05,122.55,79.98,42.57,Credit Card,Delivered
+ORD-000485,2026-04-24,CUS-0282,East,Consumer,Smart Watch,Electronics,1,129.0,0.0,129.0,79.98,49.02,Credit Card,Delivered
+ORD-000486,2026-02-11,CUS-0082,Central,Small Business,Wireless Headphones,Electronics,1,79.99,0.0,79.99,46.39,33.6,PayPal,Delivered
+ORD-000487,2026-08-09,CUS-0035,North,Consumer,Building Set,Toys & Games,1,59.0,0.0,59.0,33.04,25.96,Bank Transfer,Delivered
+ORD-000488,2026-07-27,CUS-0243,East,Consumer,Wireless Headphones,Electronics,1,79.99,0.0,79.99,46.39,33.6,Credit Card,Returned
+ORD-000489,2026-06-03,CUS-0223,East,Consumer,Smart Watch,Electronics,2,129.0,0.15,219.3,159.96,59.34,Credit Card,Delivered
+ORD-000490,2026-06-10,CUS-0032,West,Consumer,Yoga Mat,Sports & Outdoors,5,29.99,0.15,127.46,69.0,58.46,Debit Card,Returned
+ORD-000491,2026-07-22,CUS-0068,North,Small Business,Yoga Mat,Sports & Outdoors,2,29.99,0.0,59.98,27.6,32.38,Credit Card,Returned
+ORD-000492,2026-01-16,CUS-0259,East,Corporate,Board Game,Toys & Games,1,34.99,0.05,33.24,16.45,16.79,Credit Card,Cancelled
+ORD-000493,2026-08-23,CUS-0255,North,Consumer,Bluetooth Speaker,Electronics,1,54.5,0.0,54.5,29.98,24.52,Cash on Delivery,Delivered
+ORD-000494,2026-08-01,CUS-0264,East,Corporate,Camping Lantern,Sports & Outdoors,2,39.95,0.05,75.9,40.74,35.16,Debit Card,Delivered
+ORD-000495,2026-08-15,CUS-0129,South,Corporate,Yoga Mat,Sports & Outdoors,4,29.99,0.1,107.96,55.2,52.76,PayPal,Delivered
+ORD-000496,2026-06-29,CUS-0268,East,Small Business,Building Set,Toys & Games,3,59.0,0.2,141.6,99.12,42.48,Credit Card,Delivered
+ORD-000497,2026-06-26,CUS-0160,South,Corporate,Running Shoes,Clothing,2,74.0,0.0,148.0,76.96,71.04,Debit Card,Delivered
+ORD-000498,2026-07-16,CUS-0167,West,Small Business,Water Bottle,Sports & Outdoors,1,18.0,0.05,17.1,7.2,9.9,Debit Card,Delivered
+ORD-000499,2026-03-19,CUS-0071,East,Corporate,Cotton T-Shirt,Clothing,2,22.5,0.1,40.5,18.9,21.6,Credit Card,Delivered
+ORD-000500,2026-01-01,CUS-0057,North,Consumer,Building Set,Toys & Games,3,59.0,0.1,159.3,99.12,60.18,Cash on Delivery,Delivered
+ORD-000501,2026-06-17,CUS-0034,North,Consumer,Water Bottle,Sports & Outdoors,4,18.0,0.0,72.0,28.8,43.2,Credit Card,Delivered
+ORD-000502,2026-01-26,CUS-0031,East,Consumer,Water Bottle,Sports & Outdoors,1,18.0,0.0,18.0,7.2,10.8,PayPal,Delivered
+ORD-000503,2026-08-08,CUS-0262,West,Consumer,Camping Lantern,Sports & Outdoors,1,39.95,0.05,37.95,20.37,17.58,Bank Transfer,Delivered
+ORD-000504,2026-02-08,CUS-0270,East,Corporate,Smart Watch,Electronics,2,129.0,0.0,258.0,159.96,98.04,Debit Card,Delivered
+ORD-000505,2026-09-14,CUS-0265,North,Corporate,Yoga Mat,Sports & Outdoors,1,29.99,0.2,23.99,13.8,10.19,Credit Card,Delivered
+ORD-000506,2026-07-04,CUS-0236,West,Consumer,Bluetooth Speaker,Electronics,1,54.5,0.1,49.05,29.98,19.07,Debit Card,Delivered
+ORD-000507,2026-02-17,CUS-0079,West,Consumer,Yoga Mat,Sports & Outdoors,1,29.99,0.05,28.49,13.8,14.69,PayPal,Delivered
+ORD-000508,2026-09-15,CUS-0081,North,Corporate,Backpack,Clothing,1,45.0,0.05,42.75,22.5,20.25,Cash on Delivery,Delivered
+ORD-000509,2026-06-28,CUS-0088,North,Consumer,Desk Lamp,Home & Kitchen,3,32.0,0.0,96.0,46.08,49.92,Credit Card,Delivered
+ORD-000510,2026-05-06,CUS-0228,West,Corporate,Coffee Maker,Home & Kitchen,2,89.95,0.1,161.91,102.54,59.37,PayPal,Delivered
+ORD-000511,2026-07-22,CUS-0158,West,Consumer,Coffee Maker,Home & Kitchen,2,89.95,0.2,143.92,102.54,41.38,PayPal,Delivered
+ORD-000512,2026-08-04,CUS-0003,East,Consumer,Cotton T-Shirt,Clothing,1,22.5,0.0,22.5,9.45,13.05,Debit Card,Processing
+ORD-000513,2026-09-05,CUS-0003,East,Consumer,Yoga Mat,Sports & Outdoors,4,29.99,0.1,107.96,55.2,52.76,PayPal,Delivered
+ORD-000514,2026-09-12,CUS-0037,East,Small Business,Backpack,Clothing,1,45.0,0.15,38.25,22.5,15.75,Credit Card,Delivered
+ORD-000515,2026-02-15,CUS-0177,East,Corporate,Bluetooth Speaker,Electronics,1,54.5,0.1,49.05,29.98,19.07,Cash on Delivery,Delivered
+ORD-000516,2026-09-03,CUS-0186,West,Small Business,Backpack,Clothing,1,45.0,0.05,42.75,22.5,20.25,PayPal,Processing
+ORD-000517,2026-06-25,CUS-0027,North,Consumer,Running Shoes,Clothing,2,74.0,0.0,148.0,76.96,71.04,Debit Card,Delivered
+ORD-000518,2026-08-07,CUS-0202,South,Consumer,Blender,Home & Kitchen,3,64.99,0.0,194.97,105.27,89.7,Bank Transfer,Cancelled
+ORD-000519,2026-03-23,CUS-0019,West,Small Business,Cotton T-Shirt,Clothing,1,22.5,0.15,19.12,9.45,9.67,Credit Card,Processing
+ORD-000520,2026-09-19,CUS-0140,West,Corporate,Blender,Home & Kitchen,3,64.99,0.05,185.22,105.27,79.95,Credit Card,Delivered
+ORD-000521,2026-04-01,CUS-0233,West,Consumer,Blender,Home & Kitchen,1,64.99,0.0,64.99,35.09,29.9,PayPal,Returned
+ORD-000522,2026-07-19,CUS-0104,Central,Consumer,Running Shoes,Clothing,1,74.0,0.0,74.0,38.48,35.52,Credit Card,Delivered
+ORD-000523,2026-04-14,CUS-0239,West,Corporate,Desk Lamp,Home & Kitchen,2,32.0,0.15,54.4,30.72,23.68,Credit Card,Delivered
+ORD-000524,2026-06-09,CUS-0131,South,Consumer,Building Set,Toys & Games,1,59.0,0.0,59.0,33.04,25.96,Cash on Delivery,Delivered
+ORD-000525,2026-06-01,CUS-0118,South,Consumer,Yoga Mat,Sports & Outdoors,2,29.99,0.05,56.98,27.6,29.38,PayPal,Delivered
+ORD-000526,2026-01-19,CUS-0156,South,Consumer,Board Game,Toys & Games,2,34.99,0.0,69.98,32.9,37.08,Debit Card,Delivered
+ORD-000527,2026-02-20,CUS-0152,Central,Small Business,Yoga Mat,Sports & Outdoors,2,29.99,0.0,59.98,27.6,32.38,Credit Card,Delivered
+ORD-000528,2026-04-25,CUS-0115,West,Consumer,Yoga Mat,Sports & Outdoors,3,29.99,0.0,89.97,41.4,48.57,Debit Card,Delivered
+ORD-000529,2026-06-24,CUS-0280,Central,Consumer,Backpack,Clothing,3,45.0,0.05,128.25,67.5,60.75,Debit Card,Delivered
+ORD-000530,2026-02-18,CUS-0204,North,Corporate,Desk Lamp,Home & Kitchen,1,32.0,0.0,32.0,15.36,16.64,Credit Card,Delivered
+ORD-000531,2026-01-08,CUS-0011,North,Small Business,Camping Lantern,Sports & Outdoors,4,39.95,0.0,159.8,81.48,78.32,Credit Card,Delivered
+ORD-000532,2026-05-03,CUS-0191,West,Consumer,Running Shoes,Clothing,1,74.0,0.1,66.6,38.48,28.12,PayPal,Processing
+ORD-000533,2026-09-23,CUS-0178,West,Small Business,Board Game,Toys & Games,1,34.99,0.05,33.24,16.45,16.79,Cash on Delivery,Processing
+ORD-000534,2026-08-29,CUS-0054,West,Consumer,Bluetooth Speaker,Electronics,2,54.5,0.0,109.0,59.96,49.04,Bank Transfer,Delivered
+ORD-000535,2026-07-24,CUS-0089,North,Consumer,Bluetooth Speaker,Electronics,1,54.5,0.0,54.5,29.98,24.52,Cash on Delivery,Delivered
+ORD-000536,2026-08-26,CUS-0295,Central,Consumer,Desk Lamp,Home & Kitchen,2,32.0,0.1,57.6,30.72,26.88,Credit Card,Delivered
+ORD-000537,2026-09-26,CUS-0216,North,Corporate,Wireless Headphones,Electronics,2,79.99,0.0,159.98,92.78,67.2,Debit Card,Delivered
+ORD-000538,2026-04-27,CUS-0179,South,Consumer,Board Game,Toys & Games,1,34.99,0.0,34.99,16.45,18.54,Debit Card,Delivered
+ORD-000539,2026-01-11,CUS-0086,East,Corporate,Water Bottle,Sports & Outdoors,2,18.0,0.0,36.0,14.4,21.6,Credit Card,Delivered
+ORD-000540,2026-05-26,CUS-0300,East,Consumer,Bluetooth Speaker,Electronics,1,54.5,0.1,49.05,29.98,19.07,PayPal,Delivered
+ORD-000541,2026-05-02,CUS-0174,West,Corporate,Camping Lantern,Sports & Outdoors,3,39.95,0.0,119.85,61.11,58.74,Credit Card,Returned
+ORD-000542,2026-08-16,CUS-0281,South,Small Business,Building Set,Toys & Games,4,59.0,0.15,200.6,132.16,68.44,Debit Card,Delivered
+ORD-000543,2026-08-28,CUS-0012,West,Corporate,Cotton T-Shirt,Clothing,3,22.5,0.0,67.5,28.35,39.15,Credit Card,Delivered
+ORD-000544,2026-01-19,CUS-0032,East,Consumer,Camping Lantern,Sports & Outdoors,1,39.95,0.05,37.95,20.37,17.58,Credit Card,Delivered
+ORD-000545,2026-04-11,CUS-0213,North,Consumer,Backpack,Clothing,1,45.0,0.1,40.5,22.5,18.0,Credit Card,Delivered
+ORD-000546,2026-09-05,CUS-0148,Central,Consumer,Desk Lamp,Home & Kitchen,4,32.0,0.15,108.8,61.44,47.36,PayPal,Delivered
+ORD-000547,2026-05-27,CUS-0039,Central,Consumer,Water Bottle,Sports & Outdoors,2,18.0,0.0,36.0,14.4,21.6,Credit Card,Delivered
+ORD-000548,2026-09-15,CUS-0157,North,Corporate,Puzzle Set,Toys & Games,3,16.99,0.15,43.32,19.38,23.94,PayPal,Delivered
+ORD-000549,2026-06-25,CUS-0156,South,Small Business,Running Shoes,Clothing,2,74.0,0.15,125.8,76.96,48.84,Credit Card,Delivered
+ORD-000550,2026-03-24,CUS-0228,Central,Consumer,Coffee Maker,Home & Kitchen,1,89.95,0.1,80.96,51.27,29.69,Credit Card,Delivered
+ORD-000551,2026-07-31,CUS-0282,North,Consumer,Desk Lamp,Home & Kitchen,1,32.0,0.1,28.8,15.36,13.44,Cash on Delivery,Processing
+ORD-000552,2026-07-18,CUS-0172,South,Small Business,Coffee Maker,Home & Kitchen,2,89.95,0.1,161.91,102.54,59.37,PayPal,Delivered
+ORD-000553,2026-08-01,CUS-0222,West,Corporate,Desk Lamp,Home & Kitchen,2,32.0,0.0,64.0,30.72,33.28,Credit Card,Delivered
+ORD-000554,2026-03-16,CUS-0213,North,Consumer,Desk Lamp,Home & Kitchen,2,32.0,0.0,64.0,30.72,33.28,Debit Card,Delivered
+ORD-000555,2026-02-01,CUS-0114,South,Consumer,Smart Watch,Electronics,4,129.0,0.0,516.0,319.92,196.08,Cash on Delivery,Delivered
+ORD-000556,2026-01-04,CUS-0128,East,Corporate,Desk Lamp,Home & Kitchen,2,32.0,0.0,64.0,30.72,33.28,PayPal,Delivered
+ORD-000557,2026-07-19,CUS-0009,East,Corporate,Backpack,Clothing,2,45.0,0.1,81.0,45.0,36.0,Credit Card,Delivered
+ORD-000558,2026-08-28,CUS-0209,East,Consumer,Backpack,Clothing,3,45.0,0.0,135.0,67.5,67.5,Credit Card,Delivered
+ORD-000559,2026-06-22,CUS-0291,West,Consumer,Camping Lantern,Sports & Outdoors,2,39.95,0.0,79.9,40.74,39.16,PayPal,Cancelled
+ORD-000560,2026-09-07,CUS-0165,East,Consumer,Desk Lamp,Home & Kitchen,2,32.0,0.15,54.4,30.72,23.68,PayPal,Delivered
+ORD-000561,2026-08-24,CUS-0293,East,Small Business,Water Bottle,Sports & Outdoors,1,18.0,0.05,17.1,7.2,9.9,Credit Card,Delivered
+ORD-000562,2026-03-24,CUS-0068,West,Corporate,Water Bottle,Sports & Outdoors,1,18.0,0.0,18.0,7.2,10.8,Debit Card,Delivered
+ORD-000563,2026-04-09,CUS-0008,South,Small Business,Building Set,Toys & Games,1,59.0,0.0,59.0,33.04,25.96,Credit Card,Delivered
+ORD-000564,2026-08-19,CUS-0160,West,Corporate,Backpack,Clothing,2,45.0,0.0,90.0,45.0,45.0,Debit Card,Processing
+ORD-000565,2026-01-25,CUS-0119,West,Small Business,Smart Watch,Electronics,1,129.0,0.2,103.2,79.98,23.22,Credit Card,Delivered
+ORD-000566,2026-05-08,CUS-0189,South,Consumer,Smart Watch,Electronics,2,129.0,0.0,258.0,159.96,98.04,PayPal,Delivered
+ORD-000567,2026-05-13,CUS-0150,East,Consumer,Bluetooth Speaker,Electronics,2,54.5,0.2,87.2,59.96,27.24,PayPal,Delivered
+ORD-000568,2026-02-09,CUS-0084,West,Corporate,Water Bottle,Sports & Outdoors,1,18.0,0.1,16.2,7.2,9.0,Bank Transfer,Delivered
+ORD-000569,2026-05-10,CUS-0143,West,Corporate,Coffee Maker,Home & Kitchen,3,89.95,0.05,256.36,153.81,102.55,Debit Card,Processing
+ORD-000570,2026-05-30,CUS-0008,East,Consumer,Building Set,Toys & Games,1,59.0,0.1,53.1,33.04,20.06,Debit Card,Delivered
+ORD-000571,2026-02-02,CUS-0291,North,Corporate,Building Set,Toys & Games,1,59.0,0.15,50.15,33.04,17.11,Credit Card,Processing
+ORD-000572,2026-08-10,CUS-0094,East,Consumer,Coffee Maker,Home & Kitchen,1,89.95,0.05,85.45,51.27,34.18,Credit Card,Processing
+ORD-000573,2026-02-26,CUS-0189,West,Consumer,Wireless Headphones,Electronics,2,79.99,0.0,159.98,92.78,67.2,Debit Card,Delivered
+ORD-000574,2026-03-08,CUS-0258,South,Consumer,Building Set,Toys & Games,1,59.0,0.1,53.1,33.04,20.06,Debit Card,Delivered
+ORD-000575,2026-03-26,CUS-0198,Central,Corporate,Bluetooth Speaker,Electronics,3,54.5,0.05,155.32,89.94,65.38,Debit Card,Delivered
+ORD-000576,2026-07-10,CUS-0265,West,Small Business,Yoga Mat,Sports & Outdoors,1,29.99,0.1,26.99,13.8,13.19,PayPal,Processing
+ORD-000577,2026-09-14,CUS-0285,North,Consumer,Wireless Headphones,Electronics,4,79.99,0.05,303.96,185.56,118.4,Credit Card,Cancelled
+ORD-000578,2026-07-29,CUS-0146,North,Small Business,Water Bottle,Sports & Outdoors,2,18.0,0.0,36.0,14.4,21.6,Debit Card,Processing
+ORD-000579,2026-07-28,CUS-0162,East,Consumer,Wireless Headphones,Electronics,5,79.99,0.05,379.95,231.95,148.0,Credit Card,Delivered
+ORD-000580,2026-05-16,CUS-0261,West,Consumer,Coffee Maker,Home & Kitchen,1,89.95,0.05,85.45,51.27,34.18,Credit Card,Delivered
+ORD-000581,2026-06-16,CUS-0060,Central,Consumer,Building Set,Toys & Games,1,59.0,0.15,50.15,33.04,17.11,Credit Card,Processing
+ORD-000582,2026-02-24,CUS-0160,Central,Consumer,Bluetooth Speaker,Electronics,1,54.5,0.15,46.32,29.98,16.34,Credit Card,Delivered
+ORD-000583,2026-05-05,CUS-0168,South,Small Business,Wireless Headphones,Electronics,3,79.99,0.0,239.97,139.17,100.8,Cash on Delivery,Delivered
+ORD-000584,2026-01-23,CUS-0176,North,Consumer,Camping Lantern,Sports & Outdoors,1,39.95,0.1,35.96,20.37,15.59,PayPal,Delivered
+ORD-000585,2026-07-29,CUS-0207,Central,Corporate,Bluetooth Speaker,Electronics,2,54.5,0.15,92.65,59.96,32.69,Credit Card,Delivered
+ORD-000586,2026-03-29,CUS-0054,West,Small Business,Camping Lantern,Sports & Outdoors,1,39.95,0.0,39.95,20.37,19.58,Credit Card,Delivered
+ORD-000587,2026-09-08,CUS-0300,East,Corporate,Running Shoes,Clothing,1,74.0,0.05,70.3,38.48,31.82,Debit Card,Processing
+ORD-000588,2026-07-25,CUS-0187,South,Corporate,Running Shoes,Clothing,2,74.0,0.1,133.2,76.96,56.24,Credit Card,Delivered
+ORD-000589,2026-06-12,CUS-0061,North,Consumer,Puzzle Set,Toys & Games,3,16.99,0.0,50.97,19.38,31.59,Debit Card,Delivered
+ORD-000590,2026-08-13,CUS-0204,North,Consumer,Building Set,Toys & Games,1,59.0,0.1,53.1,33.04,20.06,Credit Card,Cancelled
+ORD-000591,2026-06-01,CUS-0220,West,Consumer,Cotton T-Shirt,Clothing,2,22.5,0.05,42.75,18.9,23.85,Debit Card,Delivered
+ORD-000592,2026-06-05,CUS-0045,Central,Consumer,Building Set,Toys & Games,2,59.0,0.05,112.1,66.08,46.02,Bank Transfer,Delivered
+ORD-000593,2026-06-14,CUS-0259,Central,Small Business,Blender,Home & Kitchen,4,64.99,0.05,246.96,140.36,106.6,Credit Card,Delivered
+ORD-000594,2026-05-05,CUS-0153,North,Consumer,Yoga Mat,Sports & Outdoors,2,29.99,0.1,53.98,27.6,26.38,Bank Transfer,Delivered
+ORD-000595,2026-04-18,CUS-0007,West,Consumer,Camping Lantern,Sports & Outdoors,2,39.95,0.0,79.9,40.74,39.16,Debit Card,Delivered
+ORD-000596,2026-05-31,CUS-0242,Central,Consumer,Desk Lamp,Home & Kitchen,1,32.0,0.15,27.2,15.36,11.84,PayPal,Delivered
+ORD-000597,2026-09-23,CUS-0084,West,Consumer,Coffee Maker,Home & Kitchen,1,89.95,0.05,85.45,51.27,34.18,PayPal,Delivered
+ORD-000598,2026-09-15,CUS-0189,North,Consumer,Puzzle Set,Toys & Games,1,16.99,0.0,16.99,6.46,10.53,Debit Card,Processing
+ORD-000599,2026-04-08,CUS-0006,South,Consumer,Wireless Headphones,Electronics,1,79.99,0.0,79.99,46.39,33.6,Debit Card,Delivered
+ORD-000600,2026-02-19,CUS-0086,South,Corporate,Blender,Home & Kitchen,1,64.99,0.0,64.99,35.09,29.9,Debit Card,Delivered
+ORD-000601,2026-07-07,CUS-0138,West,Consumer,Running Shoes,Clothing,1,74.0,0.05,70.3,38.48,31.82,Debit Card,Delivered
+ORD-000602,2026-04-23,CUS-0142,South,Consumer,Wireless Headphones,Electronics,1,79.99,0.05,75.99,46.39,29.6,Debit Card,Delivered
+ORD-000603,2026-04-03,CUS-0249,Central,Consumer,Wireless Headphones,Electronics,2,79.99,0.2,127.98,92.78,35.2,Credit Card,Delivered
+ORD-000604,2026-08-25,CUS-0115,East,Corporate,Coffee Maker,Home & Kitchen,1,89.95,0.0,89.95,51.27,38.68,Debit Card,Delivered
+ORD-000605,2026-08-05,CUS-0230,Central,Consumer,Bluetooth Speaker,Electronics,1,54.5,0.05,51.78,29.98,21.8,Debit Card,Delivered
+ORD-000606,2026-09-20,CUS-0092,East,Consumer,Bluetooth Speaker,Electronics,1,54.5,0.05,51.78,29.98,21.8,Cash on Delivery,Delivered
+ORD-000607,2026-09-06,CUS-0068,East,Corporate,Cotton T-Shirt,Clothing,4,22.5,0.15,76.5,37.8,38.7,PayPal,Delivered
+ORD-000608,2026-05-18,CUS-0135,South,Consumer,Running Shoes,Clothing,1,74.0,0.15,62.9,38.48,24.42,Credit Card,Delivered
+ORD-000609,2026-04-09,CUS-0076,Central,Corporate,Blender,Home & Kitchen,1,64.99,0.1,58.49,35.09,23.4,Credit Card,Delivered
+ORD-000610,2026-04-12,CUS-0072,West,Small Business,Backpack,Clothing,2,45.0,0.05,85.5,45.0,40.5,PayPal,Delivered
+ORD-000611,2026-03-02,CUS-0009,North,Corporate,Running Shoes,Clothing,1,74.0,0.0,74.0,38.48,35.52,PayPal,Delivered
+ORD-000612,2026-06-13,CUS-0044,Central,Consumer,Building Set,Toys & Games,2,59.0,0.0,118.0,66.08,51.92,Credit Card,Processing
+ORD-000613,2026-08-31,CUS-0006,West,Corporate,Running Shoes,Clothing,3,74.0,0.2,177.6,115.44,62.16,Bank Transfer,Delivered
+ORD-000614,2026-08-13,CUS-0284,North,Consumer,Running Shoes,Clothing,1,74.0,0.0,74.0,38.48,35.52,Credit Card,Processing
+ORD-000615,2026-02-02,CUS-0265,South,Consumer,Board Game,Toys & Games,2,34.99,0.0,69.98,32.9,37.08,PayPal,Delivered
+ORD-000616,2026-05-19,CUS-0120,East,Consumer,Cotton T-Shirt,Clothing,3,22.5,0.0,67.5,28.35,39.15,Cash on Delivery,Delivered
+ORD-000617,2026-09-20,CUS-0250,Central,Consumer,Board Game,Toys & Games,1,34.99,0.0,34.99,16.45,18.54,Debit Card,Delivered
+ORD-000618,2026-03-05,CUS-0195,Central,Consumer,Yoga Mat,Sports & Outdoors,1,29.99,0.0,29.99,13.8,16.19,Credit Card,Delivered
+ORD-000619,2026-01-09,CUS-0296,South,Consumer,Board Game,Toys & Games,1,34.99,0.05,33.24,16.45,16.79,Credit Card,Delivered
+ORD-000620,2026-04-25,CUS-0291,East,Consumer,Coffee Maker,Home & Kitchen,1,89.95,0.0,89.95,51.27,38.68,Bank Transfer,Delivered
+ORD-000621,2026-02-27,CUS-0153,West,Consumer,Coffee Maker,Home & Kitchen,3,89.95,0.0,269.85,153.81,116.04,Cash on Delivery,Returned
+ORD-000622,2026-03-28,CUS-0247,West,Consumer,Water Bottle,Sports & Outdoors,3,18.0,0.0,54.0,21.6,32.4,PayPal,Processing
+ORD-000623,2026-06-22,CUS-0253,East,Small Business,Backpack,Clothing,1,45.0,0.15,38.25,22.5,15.75,PayPal,Delivered
+ORD-000624,2026-04-04,CUS-0234,Central,Corporate,Backpack,Clothing,3,45.0,0.05,128.25,67.5,60.75,Cash on Delivery,Processing
+ORD-000625,2026-05-02,CUS-0147,West,Consumer,Camping Lantern,Sports & Outdoors,1,39.95,0.0,39.95,20.37,19.58,PayPal,Delivered
+ORD-000626,2026-01-16,CUS-0040,West,Consumer,Backpack,Clothing,2,45.0,0.05,85.5,45.0,40.5,Credit Card,Delivered
+ORD-000627,2026-06-17,CUS-0086,West,Small Business,Coffee Maker,Home & Kitchen,1,89.95,0.15,76.46,51.27,25.19,Debit Card,Delivered
+ORD-000628,2026-09-23,CUS-0067,West,Consumer,Camping Lantern,Sports & Outdoors,2,39.95,0.15,67.92,40.74,27.18,Debit Card,Processing
+ORD-000629,2026-01-17,CUS-0290,South,Consumer,Camping Lantern,Sports & Outdoors,1,39.95,0.1,35.96,20.37,15.59,Credit Card,Delivered
+ORD-000630,2026-05-13,CUS-0061,West,Corporate,Blender,Home & Kitchen,2,64.99,0.1,116.98,70.18,46.8,Credit Card,Processing
+ORD-000631,2026-08-23,CUS-0109,South,Consumer,Bluetooth Speaker,Electronics,3,54.5,0.0,163.5,89.94,73.56,Debit Card,Delivered
+ORD-000632,2026-02-16,CUS-0014,East,Consumer,Blender,Home & Kitchen,2,64.99,0.05,123.48,70.18,53.3,PayPal,Delivered
+ORD-000633,2026-01-28,CUS-0107,East,Consumer,Water Bottle,Sports & Outdoors,1,18.0,0.0,18.0,7.2,10.8,Credit Card,Processing
+ORD-000634,2026-08-11,CUS-0049,North,Consumer,Board Game,Toys & Games,1,34.99,0.1,31.49,16.45,15.04,PayPal,Cancelled
+ORD-000635,2026-06-12,CUS-0277,West,Consumer,Running Shoes,Clothing,1,74.0,0.0,74.0,38.48,35.52,Cash on Delivery,Cancelled
+ORD-000636,2026-08-12,CUS-0155,West,Corporate,Backpack,Clothing,2,45.0,0.2,72.0,45.0,27.0,Debit Card,Delivered
+ORD-000637,2026-08-11,CUS-0159,East,Corporate,Yoga Mat,Sports & Outdoors,3,29.99,0.0,89.97,41.4,48.57,Cash on Delivery,Delivered
+ORD-000638,2026-03-03,CUS-0235,North,Consumer,Water Bottle,Sports & Outdoors,1,18.0,0.0,18.0,7.2,10.8,PayPal,Delivered
+ORD-000639,2026-05-02,CUS-0271,West,Consumer,Coffee Maker,Home & Kitchen,2,89.95,0.0,179.9,102.54,77.36,Debit Card,Delivered
+ORD-000640,2026-09-22,CUS-0165,West,Consumer,Backpack,Clothing,2,45.0,0.2,72.0,45.0,27.0,Bank Transfer,Delivered
+ORD-000641,2026-04-02,CUS-0046,South,Consumer,Wireless Headphones,Electronics,1,79.99,0.0,79.99,46.39,33.6,Credit Card,Delivered
+ORD-000642,2026-02-03,CUS-0132,North,Consumer,Water Bottle,Sports & Outdoors,3,18.0,0.1,48.6,21.6,27.0,Debit Card,Delivered
+ORD-000643,2026-08-26,CUS-0120,West,Consumer,Bluetooth Speaker,Electronics,4,54.5,0.2,174.4,119.92,54.48,Cash on Delivery,Cancelled
+ORD-000644,2026-03-21,CUS-0202,South,Small Business,Smart Watch,Electronics,1,129.0,0.0,129.0,79.98,49.02,Credit Card,Delivered
+ORD-000645,2026-01-12,CUS-0241,West,Consumer,Running Shoes,Clothing,2,74.0,0.1,133.2,76.96,56.24,Bank Transfer,Returned
+ORD-000646,2026-06-22,CUS-0296,North,Consumer,Building Set,Toys & Games,1,59.0,0.0,59.0,33.04,25.96,Credit Card,Processing
+ORD-000647,2026-01-17,CUS-0102,East,Consumer,Running Shoes,Clothing,1,74.0,0.0,74.0,38.48,35.52,Credit Card,Delivered
+ORD-000648,2026-07-16,CUS-0016,West,Consumer,Desk Lamp,Home & Kitchen,1,32.0,0.1,28.8,15.36,13.44,Credit Card,Delivered
+ORD-000649,2026-06-30,CUS-0191,East,Corporate,Building Set,Toys & Games,1,59.0,0.0,59.0,33.04,25.96,Cash on Delivery,Delivered
+ORD-000650,2026-07-06,CUS-0219,North,Consumer,Coffee Maker,Home & Kitchen,1,89.95,0.05,85.45,51.27,34.18,Credit Card,Delivered
+ORD-000651,2026-07-21,CUS-0060,South,Small Business,Wireless Headphones,Electronics,2,79.99,0.0,159.98,92.78,67.2,Credit Card,Delivered
+ORD-000652,2026-02-25,CUS-0184,East,Consumer,Cotton T-Shirt,Clothing,2,22.5,0.0,45.0,18.9,26.1,PayPal,Delivered
+ORD-000653,2026-06-09,CUS-0168,East,Consumer,Smart Watch,Electronics,3,129.0,0.0,387.0,239.94,147.06,Debit Card,Delivered
+ORD-000654,2026-07-31,CUS-0270,Central,Consumer,Blender,Home & Kitchen,3,64.99,0.0,194.97,105.27,89.7,Cash on Delivery,Delivered
+ORD-000655,2026-01-13,CUS-0175,East,Consumer,Backpack,Clothing,3,45.0,0.1,121.5,67.5,54.0,PayPal,Cancelled
+ORD-000656,2026-03-20,CUS-0008,East,Consumer,Cotton T-Shirt,Clothing,3,22.5,0.05,64.12,28.35,35.77,PayPal,Delivered
+ORD-000657,2026-01-31,CUS-0023,South,Consumer,Building Set,Toys & Games,1,59.0,0.05,56.05,33.04,23.01,Debit Card,Delivered
+ORD-000658,2026-09-23,CUS-0216,West,Consumer,Building Set,Toys & Games,1,59.0,0.0,59.0,33.04,25.96,Credit Card,Processing
+ORD-000659,2026-05-05,CUS-0190,West,Consumer,Yoga Mat,Sports & Outdoors,2,29.99,0.0,59.98,27.6,32.38,Credit Card,Delivered
+ORD-000660,2026-09-21,CUS-0229,West,Consumer,Yoga Mat,Sports & Outdoors,4,29.99,0.2,95.97,55.2,40.77,PayPal,Delivered
+ORD-000661,2026-09-29,CUS-0138,West,Corporate,Puzzle Set,Toys & Games,1,16.99,0.1,15.29,6.46,8.83,Credit Card,Processing
+ORD-000662,2026-09-28,CUS-0146,Central,Small Business,Bluetooth Speaker,Electronics,1,54.5,0.15,46.32,29.98,16.34,Credit Card,Delivered
+ORD-000663,2026-01-22,CUS-0038,East,Corporate,Camping Lantern,Sports & Outdoors,1,39.95,0.15,33.96,20.37,13.59,Credit Card,Cancelled
+ORD-000664,2026-08-06,CUS-0121,West,Consumer,Camping Lantern,Sports & Outdoors,3,39.95,0.0,119.85,61.11,58.74,Credit Card,Delivered
+ORD-000665,2026-01-04,CUS-0109,East,Corporate,Wireless Headphones,Electronics,1,79.99,0.1,71.99,46.39,25.6,Credit Card,Processing
+ORD-000666,2026-06-23,CUS-0235,West,Small Business,Backpack,Clothing,1,45.0,0.0,45.0,22.5,22.5,Cash on Delivery,Processing
+ORD-000667,2026-05-06,CUS-0168,West,Consumer,Running Shoes,Clothing,1,74.0,0.0,74.0,38.48,35.52,Credit Card,Delivered
+ORD-000668,2026-07-10,CUS-0243,Central,Consumer,Backpack,Clothing,2,45.0,0.0,90.0,45.0,45.0,Credit Card,Delivered
+ORD-000669,2026-03-08,CUS-0176,West,Consumer,Smart Watch,Electronics,3,129.0,0.2,309.6,239.94,69.66,Debit Card,Delivered
+ORD-000670,2026-05-13,CUS-0152,North,Small Business,Coffee Maker,Home & Kitchen,2,89.95,0.0,179.9,102.54,77.36,Credit Card,Delivered
+ORD-000671,2026-03-04,CUS-0092,North,Consumer,Yoga Mat,Sports & Outdoors,3,29.99,0.0,89.97,41.4,48.57,Credit Card,Delivered
+ORD-000672,2026-08-13,CUS-0053,North,Consumer,Building Set,Toys & Games,1,59.0,0.05,56.05,33.04,23.01,Debit Card,Delivered
+ORD-000673,2026-08-09,CUS-0101,South,Small Business,Board Game,Toys & Games,1,34.99,0.1,31.49,16.45,15.04,Bank Transfer,Delivered
+ORD-000674,2026-05-10,CUS-0239,South,Consumer,Puzzle Set,Toys & Games,1,16.99,0.0,16.99,6.46,10.53,Debit Card,Delivered
+ORD-000675,2026-01-19,CUS-0201,West,Consumer,Coffee Maker,Home & Kitchen,3,89.95,0.0,269.85,153.81,116.04,Bank Transfer,Delivered
+ORD-000676,2026-02-27,CUS-0117,Central,Small Business,Running Shoes,Clothing,1,74.0,0.0,74.0,38.48,35.52,Debit Card,Delivered
+ORD-000677,2026-02-01,CUS-0170,West,Consumer,Coffee Maker,Home & Kitchen,2,89.95,0.0,179.9,102.54,77.36,Debit Card,Delivered
+ORD-000678,2026-01-06,CUS-0149,East,Consumer,Wireless Headphones,Electronics,1,79.99,0.1,71.99,46.39,25.6,Cash on Delivery,Delivered
+ORD-000679,2026-06-22,CUS-0079,North,Consumer,Desk Lamp,Home & Kitchen,4,32.0,0.0,128.0,61.44,66.56,Credit Card,Delivered
+ORD-000680,2026-02-08,CUS-0169,North,Small Business,Building Set,Toys & Games,1,59.0,0.0,59.0,33.04,25.96,Debit Card,Delivered
+ORD-000681,2026-04-27,CUS-0166,Central,Corporate,Desk Lamp,Home & Kitchen,1,32.0,0.05,30.4,15.36,15.04,Credit Card,Delivered
+ORD-000682,2026-07-08,CUS-0103,East,Small Business,Cotton T-Shirt,Clothing,2,22.5,0.1,40.5,18.9,21.6,Cash on Delivery,Returned
+ORD-000683,2026-03-03,CUS-0199,West,Consumer,Water Bottle,Sports & Outdoors,2,18.0,0.0,36.0,14.4,21.6,Credit Card,Delivered
+ORD-000684,2026-02-21,CUS-0135,North,Consumer,Puzzle Set,Toys & Games,1,16.99,0.0,16.99,6.46,10.53,PayPal,Delivered
+ORD-000685,2026-05-14,CUS-0122,Central,Consumer,Smart Watch,Electronics,2,129.0,0.1,232.2,159.96,72.24,Bank Transfer,Delivered
+ORD-000686,2026-08-13,CUS-0137,Central,Consumer,Blender,Home & Kitchen,2,64.99,0.1,116.98,70.18,46.8,Debit Card,Delivered
+ORD-000687,2026-07-30,CUS-0044,North,Corporate,Backpack,Clothing,1,45.0,0.1,40.5,22.5,18.0,Credit Card,Delivered
+ORD-000688,2026-09-24,CUS-0069,East,Consumer,Smart Watch,Electronics,2,129.0,0.1,232.2,159.96,72.24,PayPal,Delivered
+ORD-000689,2026-02-23,CUS-0279,South,Corporate,Building Set,Toys & Games,4,59.0,0.0,236.0,132.16,103.84,Cash on Delivery,Delivered
+ORD-000690,2026-04-13,CUS-0270,East,Consumer,Backpack,Clothing,2,45.0,0.05,85.5,45.0,40.5,Bank Transfer,Delivered
+ORD-000691,2026-03-29,CUS-0166,North,Small Business,Camping Lantern,Sports & Outdoors,1,39.95,0.05,37.95,20.37,17.58,Credit Card,Delivered
+ORD-000692,2026-09-27,CUS-0077,South,Consumer,Water Bottle,Sports & Outdoors,1,18.0,0.1,16.2,7.2,9.0,PayPal,Processing
+ORD-000693,2026-06-02,CUS-0085,Central,Small Business,Blender,Home & Kitchen,1,64.99,0.05,61.74,35.09,26.65,Credit Card,Processing
+ORD-000694,2026-09-29,CUS-0264,East,Consumer,Yoga Mat,Sports & Outdoors,2,29.99,0.15,50.98,27.6,23.38,Credit Card,Delivered
+ORD-000695,2026-09-26,CUS-0106,East,Small Business,Yoga Mat,Sports & Outdoors,1,29.99,0.05,28.49,13.8,14.69,Credit Card,Delivered
+ORD-000696,2026-02-06,CUS-0127,East,Consumer,Camping Lantern,Sports & Outdoors,2,39.95,0.0,79.9,40.74,39.16,Debit Card,Processing
+ORD-000697,2026-08-04,CUS-0176,South,Consumer,Bluetooth Speaker,Electronics,1,54.5,0.15,46.32,29.98,16.34,Bank Transfer,Delivered
+ORD-000698,2026-07-12,CUS-0107,East,Consumer,Puzzle Set,Toys & Games,5,16.99,0.05,80.7,32.3,48.4,Debit Card,Delivered
+ORD-000699,2026-09-16,CUS-0113,West,Corporate,Desk Lamp,Home & Kitchen,3,32.0,0.0,96.0,46.08,49.92,Debit Card,Cancelled
+ORD-000700,2026-09-17,CUS-0032,West,Corporate,Yoga Mat,Sports & Outdoors,2,29.99,0.1,53.98,27.6,26.38,Bank Transfer,Delivered
+ORD-000701,2026-04-06,CUS-0001,North,Corporate,Board Game,Toys & Games,2,34.99,0.1,62.98,32.9,30.08,Credit Card,Delivered
+ORD-000702,2026-02-14,CUS-0269,Central,Consumer,Camping Lantern,Sports & Outdoors,2,39.95,0.0,79.9,40.74,39.16,Credit Card,Delivered
+ORD-000703,2026-08-24,CUS-0038,Central,Consumer,Board Game,Toys & Games,2,34.99,0.2,55.98,32.9,23.08,Credit Card,Delivered
+ORD-000704,2026-04-22,CUS-0034,Central,Consumer,Camping Lantern,Sports & Outdoors,1,39.95,0.0,39.95,20.37,19.58,Debit Card,Delivered
+ORD-000705,2026-07-06,CUS-0048,West,Consumer,Water Bottle,Sports & Outdoors,2,18.0,0.0,36.0,14.4,21.6,Bank Transfer,Delivered
+ORD-000706,2026-02-03,CUS-0144,South,Small Business,Bluetooth Speaker,Electronics,1,54.5,0.1,49.05,29.98,19.07,Cash on Delivery,Returned
+ORD-000707,2026-07-19,CUS-0051,West,Consumer,Desk Lamp,Home & Kitchen,1,32.0,0.1,28.8,15.36,13.44,Credit Card,Delivered
+ORD-000708,2026-07-30,CUS-0117,South,Consumer,Blender,Home & Kitchen,1,64.99,0.1,58.49,35.09,23.4,Debit Card,Delivered
+ORD-000709,2026-05-17,CUS-0129,Central,Corporate,Running Shoes,Clothing,2,74.0,0.0,148.0,76.96,71.04,PayPal,Delivered
+ORD-000710,2026-01-27,CUS-0273,West,Consumer,Running Shoes,Clothing,1,74.0,0.0,74.0,38.48,35.52,Debit Card,Delivered
+ORD-000711,2026-09-16,CUS-0215,North,Corporate,Building Set,Toys & Games,3,59.0,0.05,168.15,99.12,69.03,Bank Transfer,Delivered
+ORD-000712,2026-07-02,CUS-0074,South,Consumer,Cotton T-Shirt,Clothing,1,22.5,0.1,20.25,9.45,10.8,Credit Card,Processing
+ORD-000713,2026-06-12,CUS-0108,Central,Small Business,Smart Watch,Electronics,1,129.0,0.05,122.55,79.98,42.57,Credit Card,Delivered
+ORD-000714,2026-02-10,CUS-0298,South,Corporate,Water Bottle,Sports & Outdoors,4,18.0,0.1,64.8,28.8,36.0,Debit Card,Delivered
+ORD-000715,2026-06-27,CUS-0110,North,Consumer,Building Set,Toys & Games,2,59.0,0.0,118.0,66.08,51.92,Debit Card,Delivered
+ORD-000716,2026-02-09,CUS-0228,South,Consumer,Wireless Headphones,Electronics,2,79.99,0.0,159.98,92.78,67.2,Credit Card,Delivered
+ORD-000717,2026-07-16,CUS-0189,East,Corporate,Backpack,Clothing,2,45.0,0.0,90.0,45.0,45.0,Bank Transfer,Delivered
+ORD-000718,2026-04-05,CUS-0066,South,Consumer,Coffee Maker,Home & Kitchen,1,89.95,0.15,76.46,51.27,25.19,Cash on Delivery,Delivered
+ORD-000719,2026-08-30,CUS-0171,South,Corporate,Backpack,Clothing,1,45.0,0.0,45.0,22.5,22.5,Credit Card,Delivered
+ORD-000720,2026-04-16,CUS-0197,Central,Consumer,Running Shoes,Clothing,1,74.0,0.1,66.6,38.48,28.12,Credit Card,Delivered
+ORD-000721,2026-06-02,CUS-0204,South,Consumer,Water Bottle,Sports & Outdoors,1,18.0,0.05,17.1,7.2,9.9,Credit Card,Delivered
+ORD-000722,2026-04-14,CUS-0249,East,Consumer,Yoga Mat,Sports & Outdoors,2,29.99,0.1,53.98,27.6,26.38,Credit Card,Delivered
+ORD-000723,2026-03-26,CUS-0079,North,Consumer,Building Set,Toys & Games,4,59.0,0.0,236.0,132.16,103.84,Bank Transfer,Delivered
+ORD-000724,2026-06-17,CUS-0152,South,Consumer,Desk Lamp,Home & Kitchen,4,32.0,0.0,128.0,61.44,66.56,Debit Card,Returned
+ORD-000725,2026-07-19,CUS-0281,West,Consumer,Smart Watch,Electronics,1,129.0,0.05,122.55,79.98,42.57,Debit Card,Delivered
+ORD-000726,2026-06-02,CUS-0273,East,Small Business,Bluetooth Speaker,Electronics,1,54.5,0.0,54.5,29.98,24.52,Debit Card,Cancelled
+ORD-000727,2026-01-11,CUS-0272,South,Corporate,Puzzle Set,Toys & Games,2,16.99,0.0,33.98,12.92,21.06,Credit Card,Delivered
+ORD-000728,2026-05-11,CUS-0009,West,Corporate,Blender,Home & Kitchen,1,64.99,0.0,64.99,35.09,29.9,PayPal,Processing
+ORD-000729,2026-02-09,CUS-0147,West,Consumer,Coffee Maker,Home & Kitchen,1,89.95,0.1,80.96,51.27,29.69,Debit Card,Delivered
+ORD-000730,2026-03-03,CUS-0016,North,Small Business,Puzzle Set,Toys & Games,4,16.99,0.1,61.16,25.84,35.32,Bank Transfer,Delivered
+ORD-000731,2026-06-14,CUS-0296,West,Consumer,Building Set,Toys & Games,3,59.0,0.05,168.15,99.12,69.03,PayPal,Delivered
+ORD-000732,2026-03-08,CUS-0184,South,Consumer,Smart Watch,Electronics,2,129.0,0.15,219.3,159.96,59.34,Credit Card,Processing
+ORD-000733,2026-03-06,CUS-0172,North,Corporate,Running Shoes,Clothing,3,74.0,0.05,210.9,115.44,95.46,Credit Card,Delivered
+ORD-000734,2026-08-06,CUS-0174,South,Small Business,Building Set,Toys & Games,4,59.0,0.0,236.0,132.16,103.84,Credit Card,Delivered
+ORD-000735,2026-07-26,CUS-0291,West,Small Business,Running Shoes,Clothing,1,74.0,0.0,74.0,38.48,35.52,PayPal,Cancelled
+ORD-000736,2026-09-14,CUS-0252,North,Corporate,Bluetooth Speaker,Electronics,3,54.5,0.0,163.5,89.94,73.56,Debit Card,Delivered
+ORD-000737,2026-05-16,CUS-0141,West,Consumer,Water Bottle,Sports & Outdoors,1,18.0,0.05,17.1,7.2,9.9,Cash on Delivery,Cancelled
+ORD-000738,2026-07-24,CUS-0292,North,Consumer,Wireless Headphones,Electronics,2,79.99,0.0,159.98,92.78,67.2,Credit Card,Delivered
+ORD-000739,2026-01-08,CUS-0205,Central,Small Business,Yoga Mat,Sports & Outdoors,1,29.99,0.0,29.99,13.8,16.19,PayPal,Delivered
+ORD-000740,2026-08-04,CUS-0186,South,Consumer,Desk Lamp,Home & Kitchen,4,32.0,0.0,128.0,61.44,66.56,Credit Card,Delivered
+ORD-000741,2026-07-17,CUS-0038,South,Consumer,Blender,Home & Kitchen,1,64.99,0.15,55.24,35.09,20.15,Debit Card,Returned
+ORD-000742,2026-07-30,CUS-0016,Central,Corporate,Cotton T-Shirt,Clothing,4,22.5,0.05,85.5,37.8,47.7,Credit Card,Delivered
+ORD-000743,2026-08-17,CUS-0165,East,Corporate,Smart Watch,Electronics,3,129.0,0.1,348.3,239.94,108.36,Debit Card,Delivered
+ORD-000744,2026-03-03,CUS-0061,West,Small Business,Building Set,Toys & Games,2,59.0,0.0,118.0,66.08,51.92,Credit Card,Delivered
+ORD-000745,2026-04-06,CUS-0132,South,Consumer,Wireless Headphones,Electronics,1,79.99,0.1,71.99,46.39,25.6,Debit Card,Delivered
+ORD-000746,2026-02-12,CUS-0104,South,Consumer,Blender,Home & Kitchen,3,64.99,0.05,185.22,105.27,79.95,Debit Card,Delivered
+ORD-000747,2026-02-04,CUS-0083,South,Consumer,Yoga Mat,Sports & Outdoors,2,29.99,0.0,59.98,27.6,32.38,PayPal,Delivered
+ORD-000748,2026-08-25,CUS-0057,East,Corporate,Running Shoes,Clothing,4,74.0,0.1,266.4,153.92,112.48,Credit Card,Delivered
+ORD-000749,2026-08-17,CUS-0216,West,Consumer,Smart Watch,Electronics,2,129.0,0.05,245.1,159.96,85.14,Cash on Delivery,Delivered
+ORD-000750,2026-03-23,CUS-0033,North,Consumer,Smart Watch,Electronics,4,129.0,0.05,490.2,319.92,170.28,Credit Card,Cancelled
+ORD-000751,2026-06-13,CUS-0042,South,Corporate,Puzzle Set,Toys & Games,2,16.99,0.0,33.98,12.92,21.06,Debit Card,Delivered
+ORD-000752,2026-07-15,CUS-0148,East,Consumer,Cotton T-Shirt,Clothing,1,22.5,0.0,22.5,9.45,13.05,Credit Card,Delivered
+ORD-000753,2026-08-13,CUS-0116,West,Consumer,Coffee Maker,Home & Kitchen,1,89.95,0.15,76.46,51.27,25.19,Credit Card,Delivered
+ORD-000754,2026-02-18,CUS-0132,West,Consumer,Yoga Mat,Sports & Outdoors,4,29.99,0.0,119.96,55.2,64.76,Credit Card,Delivered
+ORD-000755,2026-09-13,CUS-0281,West,Consumer,Backpack,Clothing,1,45.0,0.0,45.0,22.5,22.5,PayPal,Delivered
+ORD-000756,2026-03-22,CUS-0093,West,Consumer,Puzzle Set,Toys & Games,3,16.99,0.05,48.42,19.38,29.04,Debit Card,Delivered
+ORD-000757,2026-09-30,CUS-0208,North,Corporate,Board Game,Toys & Games,1,34.99,0.0,34.99,16.45,18.54,Bank Transfer,Delivered
+ORD-000758,2026-04-20,CUS-0299,South,Consumer,Bluetooth Speaker,Electronics,4,54.5,0.15,185.3,119.92,65.38,Credit Card,Delivered
+ORD-000759,2026-02-26,CUS-0295,South,Consumer,Desk Lamp,Home & Kitchen,1,32.0,0.0,32.0,15.36,16.64,Bank Transfer,Delivered
+ORD-000760,2026-08-04,CUS-0012,North,Consumer,Running Shoes,Clothing,1,74.0,0.1,66.6,38.48,28.12,PayPal,Delivered
+ORD-000761,2026-09-10,CUS-0063,South,Consumer,Cotton T-Shirt,Clothing,2,22.5,0.1,40.5,18.9,21.6,Cash on Delivery,Delivered
+ORD-000762,2026-06-28,CUS-0158,North,Consumer,Coffee Maker,Home & Kitchen,1,89.95,0.15,76.46,51.27,25.19,Credit Card,Delivered
+ORD-000763,2026-05-16,CUS-0136,North,Consumer,Building Set,Toys & Games,4,59.0,0.0,236.0,132.16,103.84,Credit Card,Delivered
+ORD-000764,2026-01-10,CUS-0237,South,Consumer,Puzzle Set,Toys & Games,1,16.99,0.05,16.14,6.46,9.68,Debit Card,Delivered
+ORD-000765,2026-01-08,CUS-0244,West,Consumer,Puzzle Set,Toys & Games,1,16.99,0.15,14.44,6.46,7.98,PayPal,Processing
+ORD-000766,2026-09-17,CUS-0172,South,Corporate,Smart Watch,Electronics,2,129.0,0.05,245.1,159.96,85.14,Debit Card,Delivered
+ORD-000767,2026-01-16,CUS-0196,South,Corporate,Yoga Mat,Sports & Outdoors,5,29.99,0.15,127.46,69.0,58.46,Cash on Delivery,Cancelled
+ORD-000768,2026-04-02,CUS-0167,East,Consumer,Building Set,Toys & Games,1,59.0,0.0,59.0,33.04,25.96,Credit Card,Delivered
+ORD-000769,2026-07-01,CUS-0025,South,Consumer,Cotton T-Shirt,Clothing,1,22.5,0.0,22.5,9.45,13.05,PayPal,Delivered
+ORD-000770,2026-05-31,CUS-0179,North,Consumer,Building Set,Toys & Games,1,59.0,0.2,47.2,33.04,14.16,Credit Card,Delivered
+ORD-000771,2026-09-16,CUS-0009,Central,Corporate,Coffee Maker,Home & Kitchen,5,89.95,0.05,427.26,256.35,170.91,Credit Card,Delivered
+ORD-000772,2026-08-08,CUS-0106,West,Consumer,Desk Lamp,Home & Kitchen,1,32.0,0.0,32.0,15.36,16.64,Debit Card,Delivered
+ORD-000773,2026-05-25,CUS-0277,East,Consumer,Desk Lamp,Home & Kitchen,1,32.0,0.0,32.0,15.36,16.64,Debit Card,Delivered
+ORD-000774,2026-01-09,CUS-0189,Central,Small Business,Camping Lantern,Sports & Outdoors,1,39.95,0.05,37.95,20.37,17.58,Bank Transfer,Delivered
+ORD-000775,2026-08-07,CUS-0004,West,Corporate,Backpack,Clothing,1,45.0,0.05,42.75,22.5,20.25,Debit Card,Delivered
+ORD-000776,2026-07-12,CUS-0284,East,Consumer,Bluetooth Speaker,Electronics,2,54.5,0.0,109.0,59.96,49.04,Cash on Delivery,Delivered
+ORD-000777,2026-04-12,CUS-0300,West,Consumer,Bluetooth Speaker,Electronics,2,54.5,0.2,87.2,59.96,27.24,Credit Card,Processing
+ORD-000778,2026-03-25,CUS-0089,West,Small Business,Wireless Headphones,Electronics,2,79.99,0.0,159.98,92.78,67.2,Cash on Delivery,Delivered
+ORD-000779,2026-06-11,CUS-0282,East,Corporate,Bluetooth Speaker,Electronics,1,54.5,0.05,51.78,29.98,21.8,Debit Card,Delivered
+ORD-000780,2026-07-19,CUS-0242,North,Consumer,Cotton T-Shirt,Clothing,4,22.5,0.05,85.5,37.8,47.7,Credit Card,Delivered
+ORD-000781,2026-01-13,CUS-0014,West,Consumer,Building Set,Toys & Games,2,59.0,0.0,118.0,66.08,51.92,Credit Card,Processing
+ORD-000782,2026-07-02,CUS-0160,West,Consumer,Cotton T-Shirt,Clothing,1,22.5,0.0,22.5,9.45,13.05,Debit Card,Cancelled
+ORD-000783,2026-03-16,CUS-0132,West,Corporate,Smart Watch,Electronics,1,129.0,0.0,129.0,79.98,49.02,Cash on Delivery,Delivered
+ORD-000784,2026-01-09,CUS-0238,East,Consumer,Board Game,Toys & Games,1,34.99,0.0,34.99,16.45,18.54,Credit Card,Delivered
+ORD-000785,2026-03-05,CUS-0266,Central,Consumer,Desk Lamp,Home & Kitchen,1,32.0,0.1,28.8,15.36,13.44,Credit Card,Delivered
+ORD-000786,2026-02-14,CUS-0094,West,Corporate,Bluetooth Speaker,Electronics,4,54.5,0.0,218.0,119.92,98.08,Bank Transfer,Delivered
+ORD-000787,2026-06-26,CUS-0213,East,Small Business,Cotton T-Shirt,Clothing,1,22.5,0.2,18.0,9.45,8.55,Cash on Delivery,Processing
+ORD-000788,2026-09-03,CUS-0269,South,Consumer,Board Game,Toys & Games,1,34.99,0.0,34.99,16.45,18.54,PayPal,Delivered
+ORD-000789,2026-07-22,CUS-0292,South,Consumer,Camping Lantern,Sports & Outdoors,1,39.95,0.0,39.95,20.37,19.58,Credit Card,Delivered
+ORD-000790,2026-06-28,CUS-0130,Central,Consumer,Smart Watch,Electronics,2,129.0,0.0,258.0,159.96,98.04,Debit Card,Delivered
+ORD-000791,2026-09-01,CUS-0230,Central,Consumer,Running Shoes,Clothing,1,74.0,0.05,70.3,38.48,31.82,Credit Card,Delivered
+ORD-000792,2026-07-01,CUS-0092,Central,Consumer,Board Game,Toys & Games,5,34.99,0.0,174.95,82.25,92.7,PayPal,Processing
+ORD-000793,2026-05-29,CUS-0017,West,Corporate,Building Set,Toys & Games,1,59.0,0.05,56.05,33.04,23.01,PayPal,Delivered
+ORD-000794,2026-08-02,CUS-0076,South,Corporate,Smart Watch,Electronics,2,129.0,0.0,258.0,159.96,98.04,PayPal,Delivered
+ORD-000795,2026-07-24,CUS-0209,South,Small Business,Bluetooth Speaker,Electronics,1,54.5,0.0,54.5,29.98,24.52,Bank Transfer,Delivered
+ORD-000796,2026-09-19,CUS-0297,West,Consumer,Smart Watch,Electronics,1,129.0,0.05,122.55,79.98,42.57,Debit Card,Processing
+ORD-000797,2026-08-16,CUS-0024,West,Small Business,Blender,Home & Kitchen,1,64.99,0.05,61.74,35.09,26.65,Credit Card,Delivered
+ORD-000798,2026-06-09,CUS-0151,Central,Small Business,Cotton T-Shirt,Clothing,1,22.5,0.15,19.12,9.45,9.67,Bank Transfer,Processing
+ORD-000799,2026-03-06,CUS-0102,East,Consumer,Cotton T-Shirt,Clothing,1,22.5,0.05,21.38,9.45,11.93,PayPal,Delivered
+ORD-000800,2026-04-01,CUS-0061,North,Corporate,Coffee Maker,Home & Kitchen,1,89.95,0.1,80.96,51.27,29.69,PayPal,Delivered
